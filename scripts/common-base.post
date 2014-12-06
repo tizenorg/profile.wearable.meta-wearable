@@ -1,0 +1,18 @@
+#!/bin/sh
+echo "############### common-base.post ################"
+
+######### multiuser mode: create additional users and fix their homedirs
+tizen_crypted_pass=$(perl -e 'print crypt("tizen", "aa")')
+uid=5001
+
+for user in alice bob carol guest; do
+	if ! generic_base_user_exists $user; then
+		useradd -u $uid -d /home/$user -g users -G audio,video,users,display -m --password "$tizen_crypted_pass" $user
+		uid=$(( $uid + 1 ))
+	fi
+
+	generic_base_fix_user_homedir $user
+done
+
+
+

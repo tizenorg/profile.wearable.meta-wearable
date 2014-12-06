@@ -1,0 +1,70 @@
+################ generic-base.post ##################
+
+# was base-general-minimal.post - not used actually
+#rm /usr/lib/systemd/system/default.target
+#ln -sf multi-user.target  /usr/lib/systemd/system/default.target
+
+# Run prelink to speed up dynamic binary/library loading
+/usr/sbin/prelink --all
+
+ln -sf /proc/self/mounts /etc/mtab
+
+# fix TIVI-2291
+sed -ri "s/(^blacklist i8042.*$)/#fix from base-general.post \1/" /etc/modprobe.d/blacklist.conf
+
+# sdx: fix smack labels on /var/log
+chsmack -a '*' /var/log
+
+# Temporary work around for bug in filesystem package resulting in the 'app' user home
+# directory being only readable by root
+chown -R app:app /opt/home/app
+
+# Since weston-launch runs with the "User" label, the app
+# home dir must have the same label
+chsmack -a User /opt/home/app
+
+# bug workaround on MIC (DEVT-160)
+if [ -e /etc/sysconfig/i18n -a ! -e /etc/locale.conf ]; then
+	unset LANG
+	unset LC_CTYPE
+	unset LC_NUMERIC
+	unset LC_TIME
+	unset LC_COLLATE
+	unset LC_MONETARY
+	unset LC_MESSAGES
+	unset LC_PAPER
+	unset LC_NAME
+	unset LC_ADDRESS
+	unset LC_TELEPHONE
+	unset LC_MEASUREMENT
+	unset LC_IDENTIFICATION
+	. /etc/sysconfig/i18n
+	rm -f /etc/sysconfig/i18n
+	[ -n "$LANG" ] && echo LANG=$LANG > /etc/locale.conf
+	[ -n "$LC_CTYPE" ] && echo LC_CTYPE=$LC_CTYPE >> /etc/locale.conf
+	[ -n "$LC_NUMERIC" ] && echo LC_NUMERIC=$LC_NUMERIC >> /etc/locale.conf
+	[ -n "$LC_TIME" ] && echo LC_TIME=$LC_TIME >> /etc/locale.conf
+	[ -n "$LC_COLLATE" ] && echo LC_COLLATE=$LC_COLLATE >> /etc/locale.conf
+	[ -n "$LC_MONETARY" ] && echo LC_MONETARY=$LC_MONETARY >> /etc/locale.conf
+	[ -n "$LC_MESSAGES" ] && echo LC_MESSAGES=$LC_MESSAGES >> /etc/locale.conf
+	[ -n "$LC_PAPER" ] && echo LC_PAPER=$LC_PAPER >> /etc/locale.conf
+	[ -n "$LC_NAME" ] && echo LC_NAME=$LC_NAME >> /etc/locale.conf
+	[ -n "$LC_ADDRESS" ] && echo LC_ADDRESS=$LC_ADDRESS >> /etc/locale.conf
+	[ -n "$LC_TELEPHONE" ] && echo LC_TELEPHONE=$LC_TELEPHONE >> /etc/locale.conf
+	[ -n "$LC_MEASUREMENT" ] && echo LC_MEASUREMENT=$LC_MEASUREMENT >> /etc/locale.conf
+	[ -n "$LC_IDENTIFICATION" ] && echo LC_IDENTIFICATION=$LC_IDENTIFICATION >> /etc/locale.conf
+fi
+
+# workaround for bug PTREL-763
+patch -p1 -d/ <<'EOF'
+diff -urN bad/etc/pam.d/systemd-user good/etc/pam.d/systemd-user
+--- bad/etc/pam.d/systemd-user 2014-03-20 10:01:36.657843073 +0100
++++ good/etc/pam.d/systemd-user 2014-03-20 10:06:51.586121696 +0100
+@@ -4,5 +4,6 @@
+ 
+ account include system-auth
+ session include system-auth
++session required pam_systemd.so
+ auth required pam_deny.so
+ password required pam_deny.so
+EOF

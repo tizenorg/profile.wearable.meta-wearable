@@ -1,0 +1,9 @@
+#!/bin/sh
+echo "#################### generic-packaging.post ####################"
+
+rm -rf /root/.zypp
+
+# was: rpm.post
+rm -f /var/lib/rpm/__db*
+rpmdb --rebuilddb
+

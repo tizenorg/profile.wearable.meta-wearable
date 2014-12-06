@@ -1,0 +1,10 @@
+Name: common-x11-3parts-armv7l-odroidu3
+Architecture: armv7l
+Schedule: "*"
+Active: True
+Platform: X11
+Part: common-mbr-3parts
+Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+FileName: common-x11-3parts-armv7l-odroidu3
+Repos:
+    - common-x11_armv7l

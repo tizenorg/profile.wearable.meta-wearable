@@ -1,0 +1,6 @@
+Summary: Common QA Tools
+Description: Common QA Tools
+Name: common-qa
+Packages:
+- neard-test
+- ofono-test

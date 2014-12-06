@@ -1,0 +1,3 @@
+part / --fstype="ext4" --size=3500 --ondisk=mmcblk0 --label rootfs --fsoptions=defaults,noatime
+part /opt --fstype="ext4" --size=512 --ondisk=mmcblk0 --label system-data --fsoptions=defaults,noatime
+part /opt/usr --fstype="ext4" --size=3500 --ondisk=mmcblk0 --label user --fsoptions=defaults,noatime

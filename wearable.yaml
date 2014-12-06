@@ -1,0 +1,77 @@
+Default:
+    Baseline: tizen-3.0
+    Active: True
+    Mic2Options: -f raw --fstab=uuid --copy-kernel --compress-disk-image=bz2 --generate-bmap
+    Part: common-mbr
+    Language: en_US.UTF-8
+    Keyboard: us
+    Timezone: America/Los_Angeles
+    RootPass: tizen
+    DefaultUser: guest
+    DefaultUserPass: tizen
+    BootLoader: True
+    BootloaderAppend: "rw vga=current splash rootwait rootfstype=ext4 plymouth.enable=0"
+    BootloaderTimeout: 3
+    BootloaderOptions: '--ptable=gpt --menus="install:Wipe and Install:systemd.unit=system-installer.service:test"'
+    StartX: False
+    Desktop: None
+    SaveRepos: False
+    UserGroups: "audio,video"
+    Groups:
+        - Generic Base
+        - Common Base
+        - Generic Console Tools
+        - Generic Packaging
+        - Common Packaging
+        - Generic Adaptation
+        - Common Adaptation
+    PostScripts:
+        - generic-base
+        - common-base
+        - generic-console-tools
+        - generic-packaging
+        - common-packaging
+        - generic-adaptation
+        - common-adaptation
+    NoChrootScripts:
+        - buildname
+
+Boot-Odroidu3:
+    Part: common-mbr-boot
+    Desktop: None
+    SaveRepos: False
+    UserGroups: "audio,video"
+    Groups:
+        - Common Boot Odroid U3
+    Repos: []
+
+X11:
+    Part: common-mbr
+    UserGroups: "audio,video"
+    Groups:
+        - Generic X11
+        - Generic Middleware
+        - Common Middleware
+        - Generic Applications
+        - Generic Bluetooth
+        - Generic Multimedia
+        - Generic Desktop Applications
+        - Common Desktop Applications
+        - Generic Crosswalk
+        - Common Crosswalk
+        - Generic Qt5
+        - Common Qt5
+    PostScripts:
+        - generic-x11
+        - generic-middleware
+        - common-middleware
+        - generic-applications
+        - generic-bluetooth
+        - generic-multimedia
+        - generic-desktop-applications
+        - common-desktop-applications
+        - generic-crosswalk
+        - common-crosswalk
+        - generic-qt5
+        - common-qt5
+    Repos: []

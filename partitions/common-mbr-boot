@@ -1,0 +1,2 @@
+part /boot --fstype="vfat" --size=64 --ondisk=mmcblk0 --active --label boot --fsoptions=defaults,noatime
+part /lib/modules --fstype="ext4" --size=20 --ondisk=mmcblk0 --active --label modules --fsoptions=defaults,noatime

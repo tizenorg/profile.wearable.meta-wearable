@@ -1,0 +1,11 @@
+---
+Targets:
+    -   Name: arm-x11
+        Images:
+            - common-boot-armv7l-odroidu3.yaml
+            - common-x11-2parts-armv7l.yaml
+            - common-x11-3parts-armv7l-odroidu3.yaml
+
+#    - Name: ia32-x11
+#        Images:
+#- common-x11-mbr-i586.yaml

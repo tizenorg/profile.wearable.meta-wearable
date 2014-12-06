@@ -1,0 +1,6 @@
+#!/bin/sh
+echo "############### common-crosswalk.post ################"
+
+# start wrt widgets preinstall
+prepare_widgets.sh
+

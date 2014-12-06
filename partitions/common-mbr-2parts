@@ -1,0 +1,2 @@
+part /boot --fstype="vfat" --size=64 --ondisk=sda --active --label TZBOOT --fsoptions=defaults,noatime
+part / --fstype="ext4" --size=3500 --ondisk=sda --label tizen-common --fsoptions=defaults,noatime

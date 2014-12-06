@@ -1,0 +1,9 @@
+#!/bin/sh
+echo "############### common-desktop-applications.post ################"
+
+# call function defined in meta-generic
+for user in alice bob carol guest developer; do
+	generic_desktop_applications_fix_userhome $user
+done
+
+

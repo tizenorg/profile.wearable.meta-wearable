@@ -1,0 +1,5 @@
+Summary: Common Qt5
+Description: Common Qt5
+Name: common-qt5
+Packages: 
+- qt-tizen-demo

@@ -1,0 +1,6 @@
+Description: Boot system
+Name: boot-system
+Packages:
+- linux-kernel
+- u-boot
+Summary: Boot system

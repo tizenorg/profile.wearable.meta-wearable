@@ -1,0 +1,6 @@
+Summary: Common Crosswalk
+Description: Common Crosswalk
+Name: common-crosswalk
+Packages:
+- wrt-widgets
+

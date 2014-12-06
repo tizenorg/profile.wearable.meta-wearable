@@ -1,0 +1,9 @@
+Summary: Common Wayland
+Description: Common Wayland
+Name: common-wayland
+Packages:
+- weston-common
+- weston-common-config
+- weston-clients
+- weston-common-tz-launcher
+- desktop-skin

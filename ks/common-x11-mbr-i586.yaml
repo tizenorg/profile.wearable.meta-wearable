@@ -1,0 +1,16 @@
+Name: common-x11-mbr-i586
+Architecture: ia32
+Schedule: "*"
+Active: True
+Platform: X11
+Part: common-mbr
+FileName: common-x11-mbr-i586
+Kernel: kernel-profile-common
+Repos:
+    - common-x11_i586
+Groups:
+    - Generic X11 Intel
+    - Generic Multimedia Intel
+PostScripts:
+    - generic-x11-intel
+    - generic-multimedia-intel
