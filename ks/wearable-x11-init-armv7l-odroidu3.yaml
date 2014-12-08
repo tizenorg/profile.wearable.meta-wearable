@@ -1,0 +1,10 @@
+Name: wearable-x11-init-armv7l-odroidu3
+Architecture: armv7l
+Schedule: "*"
+Active: True
+Platform: init-X11
+Part: common-mbr-3parts
+Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+FileName: wearable-x11-init-armv7l-odroidu3
+Repos:
+    - common-x11_armv7l
