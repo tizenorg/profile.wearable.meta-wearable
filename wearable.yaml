@@ -50,6 +50,7 @@ X11:
     UserGroups: "audio,video"
     Groups:
         - Generic X11
+        - Common X11
         - Generic Middleware
         - Common Middleware
         - Generic Applications
@@ -63,6 +64,7 @@ X11:
         - Common Qt5
     PostScripts:
         - generic-x11
+        - common-x11
         - generic-middleware
         - common-middleware
         - generic-applications
@@ -74,4 +76,44 @@ X11:
         - common-crosswalk
         - generic-qt5
         - common-qt5
+    Repos: []
+
+MinimalX11:
+    Part: common-mbr
+    UserGroups: "audio,video"
+    Groups:
+        - Generic X11
+        - Common X11
+        - Generic Middleware
+        - Common Middleware
+        - Generic Applications
+        - Generic Bluetooth
+        - Generic Multimedia
+        - Generic Desktop Applications
+        - Common Desktop Applications
+        - Generic Crosswalk
+        - Common Crosswalk
+        - Generic Qt5
+        - Common Qt5
+    PostScripts:
+        - generic-x11
+        - common-x11
+        - generic-middleware
+        - common-middleware
+        - generic-applications
+        - generic-bluetooth
+        - generic-multimedia
+        - generic-desktop-applications
+        - common-desktop-applications
+        - generic-crosswalk
+        - common-crosswalk
+        - generic-qt5
+        - common-qt5
+    Repos: []
+
+MinimalX11:
+    Part: common-mbr
+    UserGroups: "audio,video"
+    Groups:
+        - init wearable
     Repos: []
