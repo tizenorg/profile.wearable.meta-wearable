@@ -91,8 +91,6 @@ MinimalX11:
         - Generic Multimedia
         - Generic Desktop Applications
         - Common Desktop Applications
-        - Generic Crosswalk
-        - Common Crosswalk
         - Generic Qt5
         - Common Qt5
     PostScripts:
@@ -105,8 +103,6 @@ MinimalX11:
         - generic-multimedia
         - generic-desktop-applications
         - common-desktop-applications
-        - generic-crosswalk
-        - common-crosswalk
         - generic-qt5
         - common-qt5
     Repos: []
