@@ -1,5 +1,5 @@
-Summary: wearable X11
-Description: wearable X11
+Summary: Wearable X11
+Description: Wearable X11
 Name: wearable-x11
 Packages:
 - x11-common
