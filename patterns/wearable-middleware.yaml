@@ -1,0 +1,9 @@
+Summary: Wearable Middleware
+Description: Wearable Middleware
+Name: wearable-middleware
+Packages:
+- model-config-generic
+- ofono
+- neard
+- neardal
+- usb-server

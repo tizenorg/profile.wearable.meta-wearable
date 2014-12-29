@@ -1,0 +1,8 @@
+Summary: Wearable Desktop Applications
+Description: Wearable Desktop Applications
+Name: wearable-desktop-applications
+Packages:
+- org.tizen.calculator
+- elementary-tools
+- evas-examples
+- emotion-examples

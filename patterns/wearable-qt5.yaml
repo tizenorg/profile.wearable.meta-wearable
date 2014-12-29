@@ -1,0 +1,5 @@
+Summary: Wearable Qt5
+Description: Wearable Qt5
+Name: wearable-qt5
+Packages: 
+- qt-tizen-demo

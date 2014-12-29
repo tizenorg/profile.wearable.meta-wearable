@@ -2,7 +2,7 @@ Default:
     Baseline: tizen-3.0
     Active: True
     Mic2Options: -f raw --fstab=uuid --copy-kernel --compress-disk-image=bz2 --generate-bmap
-    Part: common-mbr
+    Part: wearable-mbr
     Language: en_US.UTF-8
     Keyboard: us
     Timezone: America/Los_Angeles
@@ -17,92 +17,106 @@ Default:
     Desktop: None
     SaveRepos: False
     UserGroups: "audio,video"
-    Groups:
-        - Generic Base
-        - Common Base
-        - Generic Console Tools
-        - Generic Packaging
-        - Common Packaging
-        - Generic Adaptation
-        - Common Adaptation
-    PostScripts:
-        - generic-base
-        - common-base
-        - generic-console-tools
-        - generic-packaging
-        - common-packaging
-        - generic-adaptation
-        - common-adaptation
-    NoChrootScripts:
-        - buildname
 
 Boot-Odroidu3:
-    Part: common-mbr-boot
+    Part: wearable-mbr-boot
     Desktop: None
     SaveRepos: False
     UserGroups: "audio,video"
     Groups:
-        - Common Boot Odroid U3
+        - Wearable Boot Odroid U3
     Repos: []
 
 X11:
-    Part: common-mbr
+    Part: wearable-mbr
     UserGroups: "audio,video"
     Groups:
-        - Generic X11
-        - Common X11
-        - Generic Middleware
-        - Common Middleware
+        - Generic Adaptation
         - Generic Applications
+        - Generic Base
         - Generic Bluetooth
-        - Generic Multimedia
-        - Generic Desktop Applications
-        - Common Desktop Applications
+        - Generic Console Tools
         - Generic Crosswalk
-        - Common Crosswalk
+        - Generic Desktop Applications
+        - Generic Middleware
+		- Generic Multimedia
+        - Generic Packaging
         - Generic Qt5
-        - Common Qt5
+        - Generic X11
+        - Wearable Adaptation
+        - Wearable Base
+        - Wearable Crosswalk
+        - Wearable Desktop Applications
+        - Wearable Middleware
+        - Wearable Packaging
+        - Wearable Qt5
+        - Wearable X11
     PostScripts:
-        - generic-x11
-        - common-x11
-        - generic-middleware
-        - common-middleware
+        - generic-adaptation
         - generic-applications
+        - generic-base
         - generic-bluetooth
-        - generic-multimedia
-        - generic-desktop-applications
-        - common-desktop-applications
+        - generic-console-tools
         - generic-crosswalk
-        - common-crosswalk
+        - generic-desktop-applications
+        - generic-middleware
+        - generic-multimedia
+        - generic-packaging
         - generic-qt5
-        - common-qt5
+        - generic-x11
+        - wearable-adaptation
+        - wearable-base
+        - wearable-crosswalk
+        - wearable-desktop-applications
+        - wearable-middleware
+        - wearable-packaging
+        - wearable-qt5
+        - wearable-x11
     Repos: []
+    NoChrootScripts:
+        - buildname
 
 MinimalX11:
-    Part: common-mbr
+    Part: wearable-mbr
     UserGroups: "audio,video"
     Groups:
-        - Generic X11
-        - Common X11
-        - Generic Middleware
-        - Common Middleware
+        - Generic Adaptation
         - Generic Applications
+        - Generic Base
         - Generic Bluetooth
-        - Generic Multimedia
+        - Generic Console Tools
         - Generic Desktop Applications
-        - Common Desktop Applications
+        - Generic Middleware
+        - Generic Multimedia
+        - Generic Packaging
         - Generic Qt5
-        - Common Qt5
+        - Generic X11
+        - Wearable Adaptation
+        - Wearable Base
+        - Wearable Desktop Applications
+        - Wearable Middleware
+        - Wearable Packaging
+        - Wearable Qt5
+        - Wearable X11
     PostScripts:
-        - generic-x11
-        - common-x11
-        - generic-middleware
-        - common-middleware
+        - generic-adaptation
         - generic-applications
+        - generic-base
         - generic-bluetooth
-        - generic-multimedia
+        - generic-console-tools
         - generic-desktop-applications
-        - common-desktop-applications
+        - generic-middleware
+        - generic-multimedia
+        - generic-packaging
         - generic-qt5
-        - common-qt5
+        - generic-x11
+        - wearable-adaptation
+        - wearable-base
+        - wearable-desktop-applications
+        - wearable-middleware
+        - wearable-packaging
+        - wearable-qt5
+        - wearable-x11
     Repos: []
+    NoChrootScripts:
+        - buildname

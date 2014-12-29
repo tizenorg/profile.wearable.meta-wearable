@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "############### common-desktop-applications.post ################"
+echo "############### wearable-desktop-applications.post ################"
 
 # call function defined in meta-generic
 for user in alice bob carol guest developer; do

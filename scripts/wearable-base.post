@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "############### common-base.post ################"
+echo "############### wearable-base.post ################"
 
 ######### multiuser mode: create additional users and fix their homedirs
 tizen_crypted_pass=$(perl -e 'print crypt("tizen", "aa")')

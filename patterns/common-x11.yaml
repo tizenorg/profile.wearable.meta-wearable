@@ -1,6 +1,0 @@
-Summary: Common X11
-Description: Common X11
-Name: common-x11
-Packages:
-- x11-common
-- desktop-skin

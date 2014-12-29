@@ -1,0 +1,7 @@
+Summary: Wearable Boot Odroid U3
+Description: Wearable Boot Odroid U3
+Name: wearable-boot-odroid-u3
+Packages:
+- arm-odroidu3-linux-kernel
+- arm-odroidu3-linux-kernel-modules
+- u-boot

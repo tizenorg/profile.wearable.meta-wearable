@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "############### common-qt5.post ################"
+echo "############### wearable-qt5.post ################"
 
 list='
 qt5-qtdeclarative-examples

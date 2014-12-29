@@ -7,10 +7,10 @@ Repositories:
         Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/wearable/@ARCH@/debug/
         Options: --save  --ssl_verify=no
 
-    -   Name: common-x11_armv7l
+    -   Name: wearable-x11_armv7l
         Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/arm-x11/packages/
         Options: --ssl_verify=no
 
-    -   Name: common-x11_arm64
+    -   Name: wearable-x11_arm64
         Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/arm64-x11/packages/
         Options: --ssl_verify=no

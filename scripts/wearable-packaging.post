@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "############### common-packaging.post ################"
+echo "############### wearable-packaging.post ################"
 
 # generate repo files for zypper
 function genrepo() {

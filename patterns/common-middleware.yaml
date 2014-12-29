@@ -1,9 +1,0 @@
-Summary: Common Middleware
-Description: Common Middleware
-Name: common-middleware
-Packages:
-- model-config-generic
-- ofono
-- neard
-- neardal
-- usb-server

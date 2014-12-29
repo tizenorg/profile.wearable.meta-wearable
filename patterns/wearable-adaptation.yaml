@@ -1,0 +1,5 @@
+Summary: Wearable Adaptation
+Description: Wearable Adaptation
+Name: wearable-adaptation
+Packages:
+- meta-generic-adaptation

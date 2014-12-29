@@ -3,12 +3,12 @@ Architecture: armv7l
 Schedule: "*"
 Active: True
 Platform: Boot-Odroidu3
-Part: common-mbr-boot
+Part: wearable-mbr-boot
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: wearable-boot-armv7l-odroidu3
-Group: Common Boot Odroid U3
+Group: Wearable Boot Odroid U3
 Attachment:
     - /var/tmp/u-boot/u-boot-mmc.bin
     - /var/tmp/u-boot/params.bin
 Repos:
-    - common-x11_armv7l
+    - wearable-x11_armv7l
