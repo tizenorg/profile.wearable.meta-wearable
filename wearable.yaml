@@ -51,6 +51,7 @@ X11:
         - Wearable Packaging
         - Wearable Qt5
         - Wearable X11
+        - Wearable EFL
     PostScripts:
         - generic-adaptation
         - generic-applications
@@ -98,6 +99,7 @@ MinimalX11:
         - Wearable Packaging
         - Wearable Qt5
         - Wearable X11
+        - Wearable EFL
     PostScripts:
         - generic-adaptation
         - generic-applications

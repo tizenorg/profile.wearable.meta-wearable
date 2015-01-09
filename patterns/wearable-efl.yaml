@@ -1,0 +1,5 @@
+Summary: Wearable EFL
+Description: Wearable EFL
+Name: wearable-efl
+Packages:
+- efl-misc
