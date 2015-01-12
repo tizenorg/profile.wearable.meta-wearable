@@ -7,3 +7,14 @@ Packages:
 - neard
 - neardal
 - usb-server
+# below packages are copied from generic-middleware
+- calendar-service
+- csf-framework
+- efl-theme-tizen-hd
+- evolution-data-server
+- libprivilege-control-conf
+- notification-service
+- pkgmgr-server
+- sqlite3
+- sdbd
+- security-server

@@ -38,7 +38,6 @@ X11:
         - Generic Console Tools
         - Generic Crosswalk
         - Generic Desktop Applications
-        - Generic Middleware
         - Generic Multimedia
         - Generic Packaging
         - Generic Qt5
@@ -60,7 +59,6 @@ X11:
         - generic-console-tools
         - generic-crosswalk
         - generic-desktop-applications
-        - generic-middleware
         - generic-multimedia
         - generic-packaging
         - generic-qt5
@@ -77,7 +75,7 @@ X11:
     NoChrootScripts:
         - buildname
 
-MinimalX11:
+X11-64:
     Part: wearable-mbr
     UserGroups: "audio,video"
     Groups:
@@ -87,7 +85,6 @@ MinimalX11:
         - Generic Bluetooth
         - Generic Console Tools
         - Generic Desktop Applications
-        - Generic Middleware
         - Generic Multimedia
         - Generic Packaging
         - Generic Qt5
@@ -107,7 +104,6 @@ MinimalX11:
         - generic-bluetooth
         - generic-console-tools
         - generic-desktop-applications
-        - generic-middleware
         - generic-multimedia
         - generic-packaging
         - generic-qt5
