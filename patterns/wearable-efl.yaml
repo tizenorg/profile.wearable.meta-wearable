@@ -7,5 +7,5 @@ Packages:
 - e-mod-tizen-effect
 - e-mod-tizen-devicemgr
 - e-mod-tizen-keyrouter
-- efl-util
+- capi-ui-efl-util
 - e-tizen-data
