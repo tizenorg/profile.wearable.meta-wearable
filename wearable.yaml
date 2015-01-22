@@ -47,6 +47,7 @@ X11:
         - Wearable Crosswalk
         - Wearable Desktop Applications
         - Wearable Middleware
+        - Wearable Multimedia
         - Wearable Packaging
         - Wearable Qt5
         - Wearable X11
@@ -93,6 +94,7 @@ X11-64:
         - Wearable Base
         - Wearable Desktop Applications
         - Wearable Middleware
+        - Wearable Multimedia
         - Wearable Packaging
         - Wearable Qt5
         - Wearable X11
