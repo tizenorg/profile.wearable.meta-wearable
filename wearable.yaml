@@ -45,6 +45,7 @@ X11:
         - Wearable Adaptation
         - Wearable Base
         - Wearable Crosswalk
+        - Wearable Dali
         - Wearable Desktop Applications
         - Wearable Middleware
         - Wearable Multimedia
@@ -92,6 +93,7 @@ X11-64:
         - Generic X11
         - Wearable Adaptation
         - Wearable Base
+        - Wearable Dali
         - Wearable Desktop Applications
         - Wearable Middleware
         - Wearable Multimedia

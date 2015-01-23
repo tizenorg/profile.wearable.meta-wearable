@@ -1,0 +1,8 @@
+Summary: Wearable Dali
+Description: Wearable Dali
+Name: wearable-dali
+Packages:
+- dali
+- dali-adaptor
+- dali-toolkit
+- com.samsung.dali-demo
