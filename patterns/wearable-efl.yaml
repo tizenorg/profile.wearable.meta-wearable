@@ -3,11 +3,6 @@ Description: Wearable EFL
 Name: wearable-efl
 Packages:
 - efl-misc
-- e-mod-tizen-wm-policy
-- e-mod-tizen-effect
-- e-mod-tizen-devicemgr
-- e-mod-tizen-keyrouter
 - capi-ui-efl-util
-- e-tizen-data
 - efl-extension
 - elementary-tools

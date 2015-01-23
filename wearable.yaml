@@ -37,7 +37,6 @@ X11:
         - Generic Bluetooth
         - Generic Console Tools
         - Generic Crosswalk
-        - Generic Desktop Applications
         - Generic Multimedia
         - Generic Packaging
         - Generic Qt5
@@ -47,6 +46,7 @@ X11:
         - Wearable Crosswalk
         - Wearable Dali
         - Wearable Desktop Applications
+        - Wearable Enlightenment
         - Wearable Middleware
         - Wearable Multimedia
         - Wearable Packaging
@@ -60,7 +60,6 @@ X11:
         - generic-bluetooth
         - generic-console-tools
         - generic-crosswalk
-        - generic-desktop-applications
         - generic-multimedia
         - generic-packaging
         - generic-qt5
@@ -86,7 +85,6 @@ X11-64:
         - Generic Base
         - Generic Bluetooth
         - Generic Console Tools
-        - Generic Desktop Applications
         - Generic Multimedia
         - Generic Packaging
         - Generic Qt5
@@ -95,6 +93,7 @@ X11-64:
         - Wearable Base
         - Wearable Dali
         - Wearable Desktop Applications
+        - Wearable Enlightenment
         - Wearable Middleware
         - Wearable Multimedia
         - Wearable Packaging
@@ -107,7 +106,6 @@ X11-64:
         - generic-base
         - generic-bluetooth
         - generic-console-tools
-        - generic-desktop-applications
         - generic-multimedia
         - generic-packaging
         - generic-qt5

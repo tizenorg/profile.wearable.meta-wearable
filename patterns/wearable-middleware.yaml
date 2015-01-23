@@ -10,7 +10,6 @@ Packages:
 # below packages are copied from generic-middleware
 - calendar-service
 - csf-framework
-- efl-theme-tizen-hd
 - evolution-data-server
 - libprivilege-control-conf
 - notification-service
