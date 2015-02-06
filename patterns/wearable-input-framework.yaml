@@ -1,0 +1,5 @@
+Summary: Wearable Input Framework
+Description: Wearable Input Framework
+Name: wearable-input-framework
+Packages:
+- isf
