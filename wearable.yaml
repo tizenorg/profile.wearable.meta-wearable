@@ -52,6 +52,7 @@ X11:
         - Wearable Multimedia
         - Wearable Packaging
         - Wearable Qt5
+        - Wearable Security
         - Wearable X11
         - Wearable EFL
     PostScripts:
@@ -100,6 +101,7 @@ X11-64:
         - Wearable Multimedia
         - Wearable Packaging
         - Wearable Qt5
+        - Wearable Security
         - Wearable X11
         - Wearable EFL
     PostScripts:

@@ -1,0 +1,6 @@
+Summary: Wearable Security
+Description: Wearable Security
+Name: wearable-security
+Packages: 
+- security-manager
+- libsecurity-manager-client
