@@ -1,5 +1,5 @@
 Summary: Wearable Base
 Description: Wearable Base
 Name: wearable-base
-Packages: []
-
+Packages:
+- libstorage
