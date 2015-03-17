@@ -1,0 +1,9 @@
+#!/bin/sh
+echo "############### wearable-users.post ################"
+
+# create guest
+/usr/sbin/useradd -m -G audio,video -c ',,,,guest' guest
+
+# modify description for GUMD
+/usr/sbin/usermod -c ',,,,normal' owner
+
