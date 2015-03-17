@@ -1,0 +1,10 @@
+#!/bin/sh
+echo "############### wearable-users.post ################"
+
+# create owner user
+tizen_crypted_pass=$(perl -e 'print crypt("tizen", "aa")')
+/usr/sbin/useradd -m -G audio,video -c ',,,,normal' --password "$tizen_crypted_pass" owner
+
+# modify description for GUMD
+/usr/sbin/usermod -c ',,,,guest' guest
+
