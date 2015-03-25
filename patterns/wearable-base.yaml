@@ -3,3 +3,6 @@ Description: Wearable Base
 Name: wearable-base
 Packages:
 - libstorage
+- libaccount-service
+- account-manager
+- account-parser
