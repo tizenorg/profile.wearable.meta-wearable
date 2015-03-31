@@ -37,6 +37,7 @@ X11:
         - Generic Bluetooth
         - Generic Console Tools
         - Generic Crosswalk
+        - Generic Middleware
         - Generic Multimedia
         - Generic Packaging
         - Generic Qt5
@@ -62,6 +63,7 @@ X11:
         - generic-bluetooth
         - generic-console-tools
         - generic-crosswalk
+        - generic-middleware
         - generic-multimedia
         - generic-packaging
         - generic-qt5
@@ -87,6 +89,7 @@ X11-64:
         - Generic Base
         - Generic Bluetooth
         - Generic Console Tools
+        - Generic Middleware
         - Generic Multimedia
         - Generic Packaging
         - Generic Qt5
@@ -110,6 +113,7 @@ X11-64:
         - generic-base
         - generic-bluetooth
         - generic-console-tools
+        - generic-middleware
         - generic-multimedia
         - generic-packaging
         - generic-qt5

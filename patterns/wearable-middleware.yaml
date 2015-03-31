@@ -8,13 +8,4 @@ Packages:
 - neardal
 - usb-server
 - resourced
-# below packages are copied from generic-middleware
-- calendar-service
-- csf-framework
-- evolution-data-server
-- libprivilege-control-conf
-- notification-service
-- pkgmgr-server
-- sqlite3
-- sdbd
-- security-server
+- iotivity
