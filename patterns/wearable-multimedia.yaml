@@ -13,3 +13,7 @@ Packages:
 - capi-media-player
 - capi-media-camera
 - capi-media-tool
+- gst-rtsp-server
+- libmm-wfd
+- libmm-scmirroring-common
+- capi-media-screen-mirroring
