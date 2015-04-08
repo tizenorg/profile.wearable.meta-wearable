@@ -9,3 +9,7 @@ Packages:
 - usb-server
 - resourced
 - iotivity
+- key-manager
+- key-manager-listener
+- libkey-manager-common
+- libkey-manager-client
