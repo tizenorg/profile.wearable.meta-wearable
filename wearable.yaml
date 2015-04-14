@@ -31,51 +31,51 @@ X11:
     Part: wearable-mbr
     UserGroups: "audio,video"
     Groups:
-        - Generic Adaptation
-        - Generic Applications
         - Generic Base
-        - Generic Bluetooth
-        - Generic Console Tools
-        - Generic Crosswalk
-        - Generic Middleware
-        - Generic Multimedia
-        - Generic Packaging
-        - Generic Qt5
-        - Generic X11
-        - Wearable Adaptation
         - Wearable Base
-        - Wearable Crosswalk
-        - Wearable Dali
+        - Generic Console Tools
+        - Generic Packaging
+        - Wearable Packaging
+        - Generic Adaptation
+        - Wearable Adaptation
+        - Generic X11
+        - Wearable X11
+        - Generic Middleware
+        - Wearable Middleware
+        - Generic Applications
+        - Generic Bluetooth
+        - Generic Multimedia
+        - Wearable Multimedia
         - Wearable Desktop Applications
+        - Generic Crosswalk
+        - Wearable Crosswalk
+        - Generic Qt5
+        - Wearable Qt5
+        - Wearable Dali
+        - Wearable EFL
         - Wearable Enlightenment
         - Wearable Input Framework
-        - Wearable Middleware
-        - Wearable Multimedia
-        - Wearable Packaging
-        - Wearable Qt5
         - Wearable Security
-        - Wearable X11
-        - Wearable EFL
     PostScripts:
-        - generic-adaptation
-        - generic-applications
         - generic-base
-        - generic-bluetooth
-        - generic-console-tools
-        - generic-crosswalk
-        - generic-middleware
-        - generic-multimedia
-        - generic-packaging
-        - generic-qt5
-        - generic-x11
-        - wearable-adaptation
         - wearable-base
-        - wearable-crosswalk
-        - wearable-desktop-applications
-        - wearable-middleware
+        - generic-console-tools
+        - generic-packaging
         - wearable-packaging
-        - wearable-qt5
+        - generic-adaptation
+        - wearable-adaptation
+        - generic-x11
         - wearable-x11
+        - generic-middleware
+        - wearable-middleware
+        - generic-applications
+        - generic-bluetooth
+        - generic-multimedia
+        - wearable-desktop-applications
+        - generic-crosswalk
+        - wearable-crosswalk
+        - generic-qt5
+        - wearable-qt5
     Repos: []
     NoChrootScripts:
         - buildname
@@ -84,47 +84,47 @@ X11-64:
     Part: wearable-mbr
     UserGroups: "audio,video"
     Groups:
-        - Generic Adaptation
-        - Generic Applications
         - Generic Base
-        - Generic Bluetooth
-        - Generic Console Tools
-        - Generic Middleware
-        - Generic Multimedia
-        - Generic Packaging
-        - Generic Qt5
-        - Generic X11
-        - Wearable Adaptation
         - Wearable Base
-        - Wearable Dali
+        - Generic Console Tools
+        - Generic Packaging
+        - Wearable Packaging
+        - Generic Adaptation
+        - Wearable Adaptation
+        - Generic X11
+        - Wearable X11
+        - Generic Middleware
+        - Wearable Middleware
+        - Generic Applications
+        - Generic Bluetooth
+        - Generic Multimedia
+        - Wearable Multimedia
         - Wearable Desktop Applications
+        - Generic Qt5
+        - Wearable Qt5
+        - Wearable Dali
+        - Wearable EFL
         - Wearable Enlightenment
         - Wearable Input Framework
-        - Wearable Middleware
-        - Wearable Multimedia
-        - Wearable Packaging
-        - Wearable Qt5
         - Wearable Security
-        - Wearable X11
-        - Wearable EFL
     PostScripts:
-        - generic-adaptation
-        - generic-applications
         - generic-base
-        - generic-bluetooth
-        - generic-console-tools
-        - generic-middleware
-        - generic-multimedia
-        - generic-packaging
-        - generic-qt5
-        - generic-x11
-        - wearable-adaptation
         - wearable-base
-        - wearable-desktop-applications
-        - wearable-middleware
+        - generic-console-tools
+        - generic-packaging
         - wearable-packaging
-        - wearable-qt5
+        - generic-adaptation
+        - wearable-adaptation
+        - generic-x11
         - wearable-x11
+        - generic-middleware
+        - wearable-middleware
+        - generic-applications
+        - generic-bluetooth
+        - generic-multimedia
+        - wearable-desktop-applications
+        - generic-qt5
+        - wearable-qt5
     Repos: []
     NoChrootScripts:
         - buildname
