@@ -13,3 +13,12 @@ Packages:
 - key-manager-listener
 - libkey-manager-common
 - libkey-manager-client
+- cynara
+- libcynara-agent
+- libcynara-creds-commons
+- libcynara-creds-dbus
+- libcynara-creds-gdbus
+- libcynara-creds-socket
+- contacts-service2
+- calendar-service
+- pims-ipc
