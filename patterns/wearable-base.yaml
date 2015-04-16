@@ -6,3 +6,6 @@ Packages:
 - libaccount-service
 - account-manager
 - account-parser
+- tlm-config-common-singleseat
+- deviced
+- deviced-tools
