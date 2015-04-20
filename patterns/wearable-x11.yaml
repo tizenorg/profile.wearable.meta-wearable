@@ -10,8 +10,8 @@ Packages:
 - xf86-video-exynos
 - at-spi2-core
 - libatspi0
-- typelib-1_0-Atspi
-- libatk-bridge
+- typelib-1_0-Atspi-2_0
+- libatk-bridge-2_0-0
 - atk-locale
 - libatk
 - typelib-Atk
