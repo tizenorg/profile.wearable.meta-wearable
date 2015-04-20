@@ -8,3 +8,10 @@ Packages:
 - xf86-input-gesture
 - xf86-misc-exynos4412
 - xf86-video-exynos
+- at-spi2-core
+- libatspi0
+- typelib-1_0-Atspi
+- libatk-bridge
+- atk-locale
+- libatk
+- typelib-Atk
