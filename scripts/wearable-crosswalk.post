@@ -1,6 +1,3 @@
 #!/bin/sh
 echo "############### wearable-crosswalk.post ################"
 
-# start wrt widgets preinstall
-prepare_widgets.sh
-
