@@ -1,0 +1,5 @@
+Summary: Wearable Web Framework
+Description: Wearable Web Framework
+Name: wearable-web-framework
+Packages:
+- webapi-plugins

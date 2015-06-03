@@ -8,4 +8,3 @@ Targets:
     -   Name: arm64-x11
         Images:
             - wearable-x11-3parts-arm64.yaml
-
