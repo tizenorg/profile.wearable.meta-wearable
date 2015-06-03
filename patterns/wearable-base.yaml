@@ -9,3 +9,4 @@ Packages:
 - tlm-config-common-singleseat
 - deviced
 - deviced-tools
+- capi-base-utils
