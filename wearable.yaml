@@ -55,6 +55,7 @@ X11:
         - Wearable Enlightenment
         - Wearable Input Framework
         - Wearable Security
+        - Wearable UI Framework
     PostScripts:
         - generic-base
         - wearable-base
@@ -106,6 +107,7 @@ X11-64:
         - Wearable Enlightenment
         - Wearable Input Framework
         - Wearable Security
+        - Wearable UI Framework
     PostScripts:
         - generic-base
         - wearable-base

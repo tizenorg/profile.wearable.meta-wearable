@@ -1,0 +1,5 @@
+Summary: Wearable UI Framework
+Description: Wearable UI Framework
+Name: wearable-ui-framework
+Packages:
+- cairo
