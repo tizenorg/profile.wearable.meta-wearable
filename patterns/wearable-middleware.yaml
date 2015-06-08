@@ -5,7 +5,6 @@ Packages:
 - ofono
 - neard
 - neardal
-- usb-server
 - resourced
 - iotivity
 - key-manager
