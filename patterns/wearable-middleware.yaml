@@ -22,3 +22,6 @@ Packages:
 - pims-ipc
 - murphy
 - cert-svc
+- capi-security-privilege-manager
+- privilege-checker
+- privilege-info
