@@ -43,6 +43,7 @@ X11:
         - Generic Middleware
         - Wearable Middleware
         - Generic Applications
+        - Wearable Applications
         - Generic Bluetooth
         - Generic Multimedia
         - Wearable Multimedia
@@ -96,6 +97,7 @@ X11-64:
         - Generic Middleware
         - Wearable Middleware
         - Generic Applications
+        - Wearable Applications
         - Generic Bluetooth
         - Generic Multimedia
         - Wearable Multimedia

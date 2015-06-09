@@ -1,0 +1,6 @@
+Summary: Wearable Applications
+Description: Wearable Applications
+Name: wearable-applications
+Packages:
+- push-bin
+- libpush

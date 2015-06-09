@@ -3,3 +3,5 @@ Description: Wearable Web Framework
 Name: wearable-web-framework
 Packages:
 - webapi-plugins
+- capi-web-url-download
+- download-provider
