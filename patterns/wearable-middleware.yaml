@@ -24,3 +24,6 @@ Packages:
 - capi-security-privilege-manager
 - privilege-checker
 - privilege-info
+- phonenumber-utils
+- libphonenumber
+- libprotobuf9
