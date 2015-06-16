@@ -3,3 +3,5 @@ Description: Wearable Input Framework
 Name: wearable-input-framework
 Packages:
 - isf
+- capi-ui-inputmethod
+- capi-ui-inputmethod-manager
