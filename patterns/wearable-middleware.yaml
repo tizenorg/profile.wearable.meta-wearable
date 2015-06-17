@@ -31,3 +31,5 @@ Packages:
 - voice-control
 - voice-control-elm
 - vc-engine-default
+- lbs-server
+- location-lbs-server
