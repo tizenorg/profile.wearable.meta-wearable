@@ -33,3 +33,5 @@ Packages:
 - vc-engine-default
 - lbs-server
 - location-lbs-server
+- lbs-server-plugin-replay
+- capi-maps-service
