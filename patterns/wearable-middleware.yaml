@@ -35,3 +35,4 @@ Packages:
 - location-lbs-server
 - lbs-server-plugin-replay
 - capi-maps-service
+- appcore-agent
