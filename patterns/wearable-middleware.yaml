@@ -36,3 +36,4 @@ Packages:
 - lbs-server-plugin-replay
 - capi-maps-service
 - appcore-agent
+- data-control
