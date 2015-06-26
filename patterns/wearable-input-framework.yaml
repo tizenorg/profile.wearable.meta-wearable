@@ -5,3 +5,4 @@ Packages:
 - isf
 - capi-ui-inputmethod
 - capi-ui-inputmethod-manager
+- org.tizen.inputmethod-setting
