@@ -37,3 +37,4 @@ Packages:
 - capi-maps-service
 - appcore-agent
 - data-control
+- vconf-internal-keys
