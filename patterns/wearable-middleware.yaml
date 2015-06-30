@@ -37,3 +37,5 @@ Packages:
 - capi-maps-service
 - appcore-agent
 - data-control
+- ttrace
+- stt
