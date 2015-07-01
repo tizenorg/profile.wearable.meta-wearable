@@ -39,3 +39,4 @@ Packages:
 - data-control
 - ttrace
 - stt
+- libttssmt
