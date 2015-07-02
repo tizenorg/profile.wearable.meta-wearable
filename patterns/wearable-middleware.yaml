@@ -40,3 +40,5 @@ Packages:
 - ttrace
 - stt
 - libttssmt
+- esd
+- eventsystem
