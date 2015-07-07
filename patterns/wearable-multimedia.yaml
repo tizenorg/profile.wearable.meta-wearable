@@ -19,3 +19,4 @@ Packages:
 - capi-media-screen-mirroring
 - capi-media-codec
 - mediacontroller
+- capi-media-tone-player
