@@ -20,3 +20,6 @@ Packages:
 - capi-media-codec
 - mediacontroller
 - capi-media-tone-player
+- capi-media-metadata-editor
+- taglib
+- capi-media-thumbnail-util

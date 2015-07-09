@@ -43,3 +43,7 @@ Packages:
 - esd
 - eventsystem
 - vconf-internal-keys
+- msg-service-tools
+- sms-plugin
+- mms-plugin
+- capi-messaging-messages
