@@ -1,0 +1,6 @@
+Summary: Wearable Connectivity Framework
+Description: Wearable Connectivity Framework
+Name: wearable-connectivity-framework
+Packages:
+- wifi-direct-manager
+- libnl2
