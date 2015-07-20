@@ -10,3 +10,4 @@ Packages:
 - deviced
 - deviced-tools
 - capi-base-utils
+- dlogutil
