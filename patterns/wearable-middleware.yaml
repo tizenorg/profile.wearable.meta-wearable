@@ -48,3 +48,4 @@ Packages:
 - sms-plugin
 - mms-plugin
 - capi-messaging-messages
+- tzsh
