@@ -25,3 +25,5 @@ Packages:
 - capi-media-thumbnail-util
 - mused
 - libmm-imgp-gstcs
+- capi-mediademuxer
+- capi-mediamuxer
