@@ -7,7 +7,6 @@ Packages:
 - libmm-fileinfo
 - libmm-radio
 - libmm-common
-- avsystem
 - libmm-sound
 - libmm-player
 - capi-media-player
