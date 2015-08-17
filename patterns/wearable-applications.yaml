@@ -4,3 +4,4 @@ Name: wearable-applications
 Packages:
 - push-bin
 - libpush
+- org.tizen.wifi-direct-popup
