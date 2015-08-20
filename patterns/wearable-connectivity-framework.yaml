@@ -6,3 +6,4 @@ Packages:
 - libnl2
 - wifi-direct-plugin-wpasupplicant
 - libug-setting-wifidirect-efl
+- wifi-efl-ug
