@@ -58,6 +58,7 @@ X11:
         - Wearable Connectivity Framework
         - Wearable Security
         - Wearable Web Framework
+        - Wearable Telephony
     PostScripts:
         - generic-base
         - wearable-base
@@ -112,6 +113,7 @@ X11-64:
         - Wearable Connectivity Framework
         - Wearable Security
         - Wearable Web Framework
+        - Wearable Telephony
     PostScripts:
         - generic-base
         - wearable-base

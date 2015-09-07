@@ -1,0 +1,10 @@
+Summary: Wearable Telephony
+Description: Wearable Telephony
+Name: wearable-telephony
+Packages:
+- tel-plugin-database
+- tel-plugin-dbus_tapi
+- tel-plugin-indicator
+- tel-plugin-nitz
+- tel-plugin-packetservice
+- tel-plugin-vconf
