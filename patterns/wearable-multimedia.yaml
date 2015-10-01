@@ -31,3 +31,4 @@ Packages:
 - opencv
 - zint
 - zbar
+- pulseaudio-modules-tizen
