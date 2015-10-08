@@ -32,3 +32,4 @@ Packages:
 - zint
 - zbar
 - pulseaudio-modules-tizen
+- dcm-service
