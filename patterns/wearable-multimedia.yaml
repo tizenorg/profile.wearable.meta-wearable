@@ -33,3 +33,4 @@ Packages:
 - zbar
 - pulseaudio-modules-tizen
 - dcm-service
+- murphy-glib
