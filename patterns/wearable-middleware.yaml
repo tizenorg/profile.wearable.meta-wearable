@@ -56,3 +56,4 @@ Packages:
 - toybox-symlinks-sysklogd
 - toybox-symlinks-dhcp
 - toybox-symlinks-dhcpd
+- xdelta3
