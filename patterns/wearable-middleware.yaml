@@ -57,3 +57,6 @@ Packages:
 - toybox-symlinks-dhcp
 - toybox-symlinks-dhcpd
 - xdelta3
+- csf-framework
+- pkgmgr-tool
+- pkgmgr-server
