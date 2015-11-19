@@ -20,15 +20,12 @@ Packages:
 - libcynara-creds-socket
 - contacts-service2
 - calendar-service
-- pims-ipc
 - murphy
 - cert-svc
 - capi-security-privilege-manager
 - privilege-checker
 - privilege-info
 - phonenumber-utils
-- libphonenumber
-- libprotobuf9
 - cairo
 - voice-control
 - voice-control-elm
@@ -62,3 +59,4 @@ Packages:
 - pkgmgr-server
 - launchpad
 - drm-service-core-tizen
+- nghttp2
