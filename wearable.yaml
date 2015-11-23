@@ -47,7 +47,6 @@ X11:
         - Generic Bluetooth
         - Generic Multimedia
         - Wearable Multimedia
-        - Wearable Desktop Applications
         - Wearable Crosswalk
         - Generic Qt5
         - Wearable Qt5
@@ -103,7 +102,6 @@ X11-64:
         - Generic Bluetooth
         - Generic Multimedia
         - Wearable Multimedia
-        - Wearable Desktop Applications
         - Generic Qt5
         - Wearable Qt5
         - Wearable Dali
