@@ -7,7 +7,7 @@ Packages:
 - neard
 - neardal
 - resourced
-- iotivity
+- iotcon
 - key-manager
 - key-manager-listener
 - key-manager-pam-plugin
