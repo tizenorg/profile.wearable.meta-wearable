@@ -60,3 +60,4 @@ Packages:
 - launchpad
 - drm-service-core-tizen
 - nghttp2
+- pubkey-pinning
