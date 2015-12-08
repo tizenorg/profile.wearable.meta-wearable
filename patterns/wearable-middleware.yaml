@@ -61,3 +61,4 @@ Packages:
 - drm-service-core-tizen
 - nghttp2
 - pubkey-pinning
+- crash-worker
