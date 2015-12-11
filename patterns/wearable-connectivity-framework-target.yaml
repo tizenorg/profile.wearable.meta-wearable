@@ -1,0 +1,10 @@
+Summary: Wearable Connectivity Framework Target
+Description: Wearable Connectivity Framework Target
+Name: wearable-connectivity-framework-target
+Packages:
+- wifi-direct-manager
+- libnl2
+- wifi-direct-plugin-wpasupplicant
+- libmtp
+- mtp-initiator
+- capi-network-mtp

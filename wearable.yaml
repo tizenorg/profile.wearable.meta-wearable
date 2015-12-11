@@ -53,7 +53,7 @@ X11:
         - Wearable EFL
         - Wearable Enlightenment
         - Wearable Input Framework
-        - Wearable Connectivity Framework
+        - Wearable Connectivity Framework Target
         - Wearable Security
         - Wearable Web Framework
         - Wearable Telephony
@@ -105,7 +105,7 @@ X11-64:
         - Wearable EFL
         - Wearable Enlightenment
         - Wearable Input Framework
-        - Wearable Connectivity Framework
+        - Wearable Connectivity Framework Target
         - Wearable Security
         - Wearable Web Framework
         - Wearable Telephony
