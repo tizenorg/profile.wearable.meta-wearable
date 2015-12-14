@@ -1,16 +1,5 @@
 Repositories:
-    -   Name: wearable
-        Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/wearable/@ARCH@/packages/
-        Options: --save  --ssl_verify=no
-
-    -   Name: wearable-debug
-        Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/wearable/@ARCH@/debug/
-        Options: --save  --ssl_verify=no
-
     -   Name: wearable-x11_armv7l
         Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/arm-x11/packages/
         Options: --ssl_verify=no
 
-    -   Name: wearable-x11_arm64
-        Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/arm64-x11/packages/
-        Options: --ssl_verify=no

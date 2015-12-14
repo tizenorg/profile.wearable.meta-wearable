@@ -4,7 +4,3 @@ Targets:
         Images:
             - wearable-boot-armv7l-odroidu3.yaml
             - wearable-x11-3parts-armv7l-odroidu3.yaml
-
-    -   Name: arm64-x11
-        Images:
-            - wearable-x11-3parts-arm64.yaml
