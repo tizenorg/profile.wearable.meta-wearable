@@ -36,3 +36,5 @@ Packages:
 - libbmp
 - libnsbmp
 - capi-media-streamer
+- openal-soft
+- freealut
