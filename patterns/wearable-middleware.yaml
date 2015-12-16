@@ -62,3 +62,4 @@ Packages:
 - nghttp2
 - pubkey-pinning
 - crash-worker
+- debug-launchpad
