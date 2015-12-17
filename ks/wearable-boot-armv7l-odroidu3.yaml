@@ -1,7 +1,7 @@
 Name: wearable-boot-armv7l-odroidu3
 Architecture: armv7l
 Schedule: "*"
-Active: True
+Active: False
 Platform: Boot-Odroidu3
 Part: wearable-mbr-boot
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
