@@ -63,3 +63,4 @@ Packages:
 - pubkey-pinning
 - crash-worker
 - debug-launchpad
+- amd
