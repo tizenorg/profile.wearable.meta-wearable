@@ -5,3 +5,4 @@ Packages:
 - webapi-plugins
 - capi-web-url-download
 - download-provider
+- cordova-api
