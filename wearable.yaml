@@ -27,7 +27,7 @@ Boot-Odroidu3:
         - Wearable Boot Odroid U3
     Repos: []
 
-X11:
+Wayland:
     Part: wearable-mbr
     UserGroups: "audio,video"
     Groups:
@@ -38,8 +38,7 @@ X11:
         - Wearable Packaging
         - Generic Adaptation
         - Wearable Adaptation
-        - Generic X11
-        - Wearable X11
+        - Wearable Wayland
         - Wearable Middleware
         - Generic Applications
         - Wearable Applications
@@ -65,8 +64,6 @@ X11:
         - wearable-packaging
         - generic-adaptation
         - wearable-adaptation
-        - generic-x11
-        - wearable-x11
         - wearable-middleware
         - generic-applications
         - generic-bluetooth

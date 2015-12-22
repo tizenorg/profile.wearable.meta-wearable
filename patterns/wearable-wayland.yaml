@@ -1,0 +1,11 @@
+Summary: Wearable Wayland
+Description: Wearable Wayland
+Name: wearable-wayland
+Packages: 
+- at-spi2-core
+- libatspi0
+- typelib-1_0-Atspi-2_0
+- libatk-bridge-2_0-0
+- atk-locale
+- libatk
+- typelib-Atk

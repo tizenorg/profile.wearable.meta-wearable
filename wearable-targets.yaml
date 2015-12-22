@@ -1,6 +1,6 @@
 ---
 Targets:
-    -   Name: arm-x11
+    -   Name: arm-wayland
         Images:
             - wearable-boot-armv7l-odroidu3.yaml
-            - wearable-x11-3parts-armv7l-odroidu3.yaml
+            - wearable-wayland-3parts-armv7l-odroidu3.yaml

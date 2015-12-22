@@ -1,5 +1,5 @@
 Repositories:
-    -   Name: wearable-x11_armv7l
-        Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/arm-x11/packages/
+    -   Name: wearable-wayland_armv7l
+        Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/arm-wayland/packages/
         Options: --ssl_verify=no
 
