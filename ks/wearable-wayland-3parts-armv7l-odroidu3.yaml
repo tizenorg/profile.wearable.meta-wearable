@@ -1,7 +1,7 @@
-Name: wearable-Wayland-3parts-armv7l-odroidu3
+Name: wearable-wayland-3parts-armv7l-odroidu3
 Architecture: armv7l
 Schedule: "*"
-Active: False
+Active: True
 Platform: Wayland
 Part: wearable-mbr-3parts
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
