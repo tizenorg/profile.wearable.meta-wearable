@@ -12,3 +12,4 @@ Attachment:
     - /var/tmp/u-boot/params.bin
 Repos:
     - wearable-wayland_armv7l
+    - base_armv7l
