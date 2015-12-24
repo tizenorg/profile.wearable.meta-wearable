@@ -34,7 +34,6 @@ Wayland:
         - Generic Base
         - Wearable Base
         - Generic Console Tools
-        - Generic Packaging
         - Wearable Packaging
         - Generic Adaptation
         - Wearable Adaptation
@@ -59,7 +58,6 @@ Wayland:
         - generic-base
         - wearable-base
         - generic-console-tools
-        - generic-packaging
         - wearable-packaging
         - generic-adaptation
         - wearable-adaptation
