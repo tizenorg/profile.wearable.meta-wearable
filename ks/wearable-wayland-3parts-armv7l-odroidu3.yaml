@@ -8,4 +8,4 @@ Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: wearable-wayland-3parts-armv7l-odroidu3
 Repos:
     - wearable-wayland_armv7l
-    - base_armv7l
+    - base_arm
