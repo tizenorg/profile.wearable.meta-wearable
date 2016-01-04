@@ -1,0 +1,13 @@
+Summary: Wearable Console Tools
+Description: Wearable Console Tools
+Name: wearable-console-tools
+Packages:
+- tar
+- grep
+- gzip
+- zip
+- unzip
+- xz
+- curl
+- findutils
+- iptables

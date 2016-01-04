@@ -33,13 +33,12 @@ Wayland:
     Groups:
         - Generic Base
         - Wearable Base
-        - Generic Console Tools
+        - Wearable Console Tools
         - Wearable Packaging
         - Generic Adaptation
         - Wearable Adaptation
         - Wearable Wayland
         - Wearable Middleware
-        - Generic Applications
         - Wearable Applications
         - Generic Bluetooth
         - Generic Multimedia
