@@ -61,7 +61,6 @@ Wayland:
         - generic-adaptation
         - wearable-adaptation
         - wearable-middleware
-        - generic-applications
         - generic-bluetooth
         - generic-multimedia
         - wearable-desktop-applications
