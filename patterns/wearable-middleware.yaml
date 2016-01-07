@@ -64,3 +64,4 @@ Packages:
 - crash-worker
 - debug-launchpad
 - amd
+- libhyphen
