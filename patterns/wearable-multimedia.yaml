@@ -38,3 +38,5 @@ Packages:
 - capi-media-streamer
 - openal-soft
 - freealut
+- capi-media-streamrecorder
+- libmm-streamrecorder
