@@ -1,0 +1,13 @@
+Name: wearable-emulator32-wayland
+Architecture: ia32
+Schedule: "*"
+Active: True
+Platform: Emulator-wayland
+Part: wearable-mbr-3parts
+Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+FileName: wearable-emulator32-wayland
+Repos:
+    - wearable-wayland_emulator32
+    - base_emulator32
+Groups: []
+ExtraPacakges: []
