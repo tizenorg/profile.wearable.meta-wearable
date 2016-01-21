@@ -72,3 +72,48 @@ Wayland:
     NoChrootScripts:
         - buildname
 
+Emulator-wayland:
+    Part: wearable-mbr
+    UserGroups: "audio,video"
+    Groups:
+        - Generic Base
+        - Wearable Base
+        - Wearable Console Tools
+        - Wearable Packaging
+        - Generic Adaptation
+        - Wearable Adaptation
+        - Wearable Wayland
+        - Wearable Middleware
+        - Wearable Applications
+        - Generic Bluetooth
+        - Generic Multimedia
+        - Wearable Multimedia
+        - Wearable Crosswalk
+        - Generic Qt5
+        - Wearable Qt5
+        - Wearable Dali
+        - Wearable EFL
+        - Wearable Input Framework
+        - Wearable Security
+        - Wearable Web Framework
+        - Wearable Telephony
+        - Wearable Emulator
+    PostScripts:
+        - generic-base
+        - wearable-base
+        - generic-console-tools
+        - wearable-packaging
+        - generic-adaptation
+        - wearable-adaptation
+        - wearable-middleware
+        - generic-bluetooth
+        - generic-multimedia
+        - wearable-desktop-applications
+        - generic-crosswalk
+        - wearable-crosswalk
+        - generic-qt5
+        - wearable-qt5
+    Repos: []
+    NoChrootScripts:
+        - buildname
+

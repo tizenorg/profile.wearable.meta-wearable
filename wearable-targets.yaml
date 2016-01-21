@@ -4,3 +4,7 @@ Targets:
         Images:
             - wearable-boot-armv7l-odroidu3.yaml
             - wearable-wayland-3parts-armv7l-odroidu3.yaml
+
+    -   Name: emulator32-wayland
+        Images:
+            - wearable-emulator32-wayland.yaml

@@ -6,3 +6,7 @@ Repositories:
     -   Name: base_arm
         Url:  http://download.tizen.org/snapshots/tizen/base/latest/repos/arm/packages/
         Options: --ssl_verify=no
+
+    -   Name: wearable-wayland_emulator32
+        Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/emulator32-wayland/packages/
+        Options: --ssl_verify=no
