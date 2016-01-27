@@ -11,3 +11,4 @@ Packages:
 - deviced-tools
 - capi-base-utils
 - dlogutil
+- lzo
