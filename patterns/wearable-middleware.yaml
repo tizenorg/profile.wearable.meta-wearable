@@ -4,8 +4,6 @@ Name: wearable-middleware
 Packages:
 - buxton2
 - ofono
-- neard
-- neardal
 - resourced
 - iotcon
 - key-manager
