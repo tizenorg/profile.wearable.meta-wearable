@@ -48,6 +48,7 @@ Wayland:
         - Wearable Qt5
         - Wearable Dali
         - Wearable EFL
+        - Wearable Enlightenment
         - Wearable Input Framework
         - Wearable Connectivity Framework Target
         - Wearable Security
@@ -93,6 +94,7 @@ Emulator-wayland:
         - Wearable Qt5
         - Wearable Dali
         - Wearable EFL
+        - Wearable Enlightenment
         - Wearable Input Framework
         - Wearable Security
         - Wearable Web Framework
