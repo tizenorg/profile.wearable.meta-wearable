@@ -44,10 +44,9 @@ Wayland:
         - Generic Multimedia
         - Wearable Multimedia
         - Wearable Crosswalk
-        - Generic Qt5
-        - Wearable Qt5
         - Wearable Dali
         - Wearable EFL
+        - Wearable Enlightenment
         - Wearable Input Framework
         - Wearable Connectivity Framework Target
         - Wearable Security
@@ -66,8 +65,6 @@ Wayland:
         - wearable-desktop-applications
         - generic-crosswalk
         - wearable-crosswalk
-        - generic-qt5
-        - wearable-qt5
     Repos: []
     NoChrootScripts:
         - buildname
@@ -89,10 +86,9 @@ Emulator-wayland:
         - Generic Multimedia
         - Wearable Multimedia
         - Wearable Crosswalk
-        - Generic Qt5
-        - Wearable Qt5
         - Wearable Dali
         - Wearable EFL
+        - Wearable Enlightenment
         - Wearable Input Framework
         - Wearable Security
         - Wearable Web Framework
@@ -111,8 +107,6 @@ Emulator-wayland:
         - wearable-desktop-applications
         - generic-crosswalk
         - wearable-crosswalk
-        - generic-qt5
-        - wearable-qt5
     Repos: []
     NoChrootScripts:
         - buildname

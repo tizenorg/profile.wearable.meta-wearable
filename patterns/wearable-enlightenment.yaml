@@ -2,9 +2,4 @@ Summary: Wearable Enlightenment
 Description: Wearable Enlightenment
 Name: wearable-enlightenment
 Packages:
-- e-mod-tizen-wm-policy
-- e-mod-tizen-effect
-- e-mod-tizen-devicemgr
-- e-mod-tizen-keyrouter
-- e-tizen-data
-- e-tizen-testcase
+- e-mod-tizen-processmgr
