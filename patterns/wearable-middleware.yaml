@@ -19,7 +19,7 @@ Packages:
 - calendar-service
 - murphy
 - cert-svc
-- capi-security-privilege-manager
+- security-privilege-manager
 - privilege-checker
 - privilege-info
 - phonenumber-utils
