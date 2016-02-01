@@ -6,3 +6,12 @@ Packages:
 - ca-certificates
 - push-bin
 - libpush
+- boot-animation
+- starter
+- app-installers
+- data-provider-master
+- tpk-backend
+- wgt-backend
+- libwidget_service
+- libwidget_viewer
+- libwidget_viewer_evas

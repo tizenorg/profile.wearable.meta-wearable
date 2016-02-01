@@ -62,3 +62,12 @@ Packages:
 - debug-launchpad
 - amd
 - libhyphen
+- capi-system-media-key
+- appcore-widget
+- context-service
+- org.tizen.service-plugin-sample
+- minicontrol
+- service-adaptor
+- service-discovery
+- service-federation
+- sdbd

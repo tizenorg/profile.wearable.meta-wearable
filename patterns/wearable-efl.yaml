@@ -2,9 +2,7 @@ Summary: Wearable EFL
 Description: Wearable EFL
 Name: wearable-efl
 Packages:
-- efl-misc
 - capi-ui-efl-util
-- efl-extension
 - elementary-tools
 - default-fonts-sdk
 - default-fonts-fc-sdk

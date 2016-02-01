@@ -5,4 +5,14 @@ Packages:
 - isf
 - capi-ui-inputmethod
 - capi-ui-inputmethod-manager
+- anthy
+- org.tizen.inputmethod-setting
+- ise-default
+- ise-engine-anthy
+- ise-engine-default
+- ise-engine-hangul
+- ise-engine-sunpinyin
+- ise-engine-tables
 - ise-engine-tables-zh
+- libhangul
+- libscl-ui
