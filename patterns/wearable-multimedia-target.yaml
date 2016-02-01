@@ -1,0 +1,46 @@
+Summary: Wearable Multimedia Target
+Description: Wearable Multimedia Target
+Name: wearable-multimedia-target
+Packages:
+- libmm-camcorder
+- libmm-session
+- libmm-fileinfo
+- libmm-radio
+- libmm-common
+- libmm-sound
+- libmm-player
+- capi-media-player
+- capi-media-camera
+- capi-media-tool
+- gst-rtsp-server
+- libmm-wfd
+- capi-media-screen-mirroring
+- capi-media-codec
+- mediacontroller
+- capi-media-tone-player
+- capi-media-metadata-editor
+- taglib
+- capi-media-thumbnail-util
+- mused
+- libmm-imgp-gstcs
+- capi-mediademuxer
+- capi-mediamuxer
+- gst-omx
+- capi-media-vision
+- opencv
+- zint
+- zbar
+- pulseaudio-modules-tizen
+- dcm-service
+- murphy-glib
+- libbmp
+- libnsbmp
+- capi-media-streamer
+- openal-soft
+- freealut
+- capi-media-streamrecorder
+- libmm-streamrecorder
+- capi-media-recorder
+- gst-libav
+- gst-plugins-tizen
+- gst-plugins-ugly

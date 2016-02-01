@@ -6,3 +6,4 @@ Packages:
 - capi-web-url-download
 - download-provider
 - cordova-api
+- jsnative

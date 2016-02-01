@@ -1,6 +1,6 @@
-Summary: Wearable Multimedia
-Description: Wearable Multimedia
-Name: wearable-multimedia
+Summary: Wearable Multimedia Emulator
+Description: Wearable Multimedia Emulator
+Name: wearable-multimedia-emulator
 Packages:
 - libmm-camcorder
 - libmm-session
@@ -40,3 +40,8 @@ Packages:
 - freealut
 - capi-media-streamrecorder
 - libmm-streamrecorder
+- capi-media-recorder
+- mmfw-sysconf-simulator
+- gst-libav
+- gst-plugins-tizen
+- gst-plugins-ugly

@@ -1,0 +1,15 @@
+Summary: Wearable Adaptation Emulator
+Description: Wearable Adaptation Emulator
+Name: wearable-adaptation-emulator
+Packages:
+- device-manager-plugin-emul
+- emuld
+- gst-plugins-emulator
+- libtbm-vigs
+- model-config-emulator
+- system-plugin-emulator
+- vmodemd-emul
+- swap-manager
+- swap-probe
+- gssdp
+- openssh
