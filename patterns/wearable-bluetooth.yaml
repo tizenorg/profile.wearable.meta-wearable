@@ -1,0 +1,5 @@
+Summary: Wearable Bluetooth
+Description: Wearable Bluetooth
+Name: wearable-bluetooth
+Packages:
+- bluetooth-agent
