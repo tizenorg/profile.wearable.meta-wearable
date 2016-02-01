@@ -8,3 +8,4 @@ Packages:
 - libmtp
 - mtp-initiator
 - capi-network-mtp
+- capi-network-nfc

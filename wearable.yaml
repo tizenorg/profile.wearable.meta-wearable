@@ -41,8 +41,9 @@ Wayland:
         - Wearable Middleware
         - Wearable Applications
         - Generic Bluetooth
+        - Wearable Bluetooth
         - Generic Multimedia
-        - Wearable Multimedia
+        - Wearable Multimedia Target
         - Wearable Crosswalk
         - Wearable Dali
         - Wearable EFL
@@ -77,19 +78,20 @@ Emulator-wayland:
         - Wearable Base
         - Wearable Console Tools
         - Wearable Packaging
-        - Generic Adaptation
         - Wearable Adaptation
         - Wearable Wayland
         - Wearable Middleware
         - Wearable Applications
         - Generic Bluetooth
+        - Wearable Bluetooth
         - Generic Multimedia
-        - Wearable Multimedia
+        - Wearable Multimedia Emulator
         - Wearable Crosswalk
         - Wearable Dali
         - Wearable EFL
         - Wearable Enlightenment
         - Wearable Input Framework
+        - Wearable Connectivity Framework Emulator
         - Wearable Security
         - Wearable Web Framework
         - Wearable Telephony

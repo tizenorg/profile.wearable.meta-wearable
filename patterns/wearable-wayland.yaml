@@ -9,3 +9,5 @@ Packages:
 - atk-locale
 - libatk
 - typelib-Atk
+- ui-gadget-1
+- xkeyboard-config

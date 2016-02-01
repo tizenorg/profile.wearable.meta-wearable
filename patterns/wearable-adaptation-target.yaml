@@ -1,0 +1,5 @@
+Summary: Wearable Adaptation Target
+Description: Wearable Adaptation Target
+Name: wearable-adaptation-target
+Packages:
+- libtbm-exynos
