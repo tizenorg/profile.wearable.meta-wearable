@@ -6,3 +6,6 @@ Packages:
 - elementary-tools
 - default-fonts-sdk
 - default-fonts-fc-sdk
+- efl-config
+- efl-misc
+- efl-modules

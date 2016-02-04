@@ -12,3 +12,4 @@ Packages:
 - swap-probe
 - gssdp
 - openssh
+- libtdm-drm
