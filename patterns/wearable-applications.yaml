@@ -15,3 +15,4 @@ Packages:
 - libwidget_service
 - libwidget_viewer
 - libwidget_viewer_evas
+- org.tizen.heremaps-uc
