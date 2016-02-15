@@ -1,0 +1,15 @@
+Summary: Wearable Adaptation Emulator Circle
+Description: Wearable Adaptation Emulator Circle
+Name: wearable-adaptation-emulator-circle
+Packages:
+- device-manager-plugin-emul
+- emuld
+- gst-plugins-emulator
+- libtbm-vigs
+- model-config-emulator
+- system-plugin-emulator
+- vmodemd-emul
+- swap-probe
+- gssdp
+- openssh
+- libtdm-drm

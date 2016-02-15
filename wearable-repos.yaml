@@ -1,16 +1,24 @@
 Repositories:
-    -   Name: wearable-wayland_armv7l
+    -   Name: wearable-wayland-armv7l
         Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/arm-wayland/packages/
         Options: --ssl_verify=no
 
-    -   Name: base_arm
+    -   Name: wearable-target-circle
+        Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/target-circle/packages/
+        Options: --ssl_verify=no
+
+    -   Name: base-arm
         Url:  http://download.tizen.org/snapshots/tizen/base/latest/repos/arm/packages/
         Options: --ssl_verify=no
 
-    -   Name: wearable-wayland_emulator32
+    -   Name: wearable-wayland-emulator32
         Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/emulator32-wayland/packages/
         Options: --ssl_verify=no
 
-    -   Name: base_emulator32
+    -   Name: wearable-emulator-circle
+        Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/emulator-circle/packages/
+        Options: --ssl_verify=no
+
+    -   Name: base-emulator32
         Url:  http://download.tizen.org/snapshots/tizen/base/latest/repos/emulator32/packages/
         Options: --ssl_verify=no

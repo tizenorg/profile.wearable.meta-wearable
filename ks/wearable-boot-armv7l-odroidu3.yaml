@@ -11,5 +11,5 @@ Attachment:
     - /var/tmp/u-boot/u-boot-mmc.bin
     - /var/tmp/u-boot/params.bin
 Repos:
-    - wearable-wayland_armv7l
-    - base_armv7l
+    - wearable-wayland-armv7l
+    - base-armv7l

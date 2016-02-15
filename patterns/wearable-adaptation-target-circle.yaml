@@ -1,0 +1,5 @@
+Summary: Wearable Adaptation Target Circle
+Description: Wearable Adaptation Target Circle
+Name: wearable-adaptation-target-circle
+Packages:
+- libtbm-exynos

@@ -7,7 +7,7 @@ Part: wearable-mbr-3parts
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: wearable-wayland-3parts-armv7l
 Repos:
-    - wearable-wayland_armv7l
-    - base_arm
+    - wearable-wayland-armv7l
+    - base-arm
 Groups:
     - Wearable Adaptation Target

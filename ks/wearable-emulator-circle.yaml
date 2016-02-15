@@ -1,14 +1,14 @@
-Name: wearable-emulator32-wayland
+Name: wearable-emulator-circle
 Architecture: ia32
 Schedule: "*"
 Active: True
 Platform: Emulator-wayland
 Part: wearable-mbr-3parts-emulator
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
-FileName: wearable-emulator32-wayland
+FileName: wearable-emulator-circle
 Repos:
-    - wearable-wayland-emulator32
+    - wearable-emulator-circle
     - base-emulator32
 Groups:
-    - Wearable Adaptation Emulator
+    - Wearable Adaptation Emulator Circle
 ExtraPacakges: []

@@ -1,0 +1,13 @@
+Name: wearable-wayland-armv7l-circle
+Architecture: armv7l
+Schedule: "*"
+Active: True
+Platform: Wayland
+Part: wearable-mbr-target-circle
+Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+FileName: wearable-wayland-armv7l-circle
+Repos:
+    - wearable-target-circle
+    - base-arm
+Groups:
+    - Wearable Adaptation Target Circle
