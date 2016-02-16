@@ -16,3 +16,4 @@ Packages:
 - libwidget_viewer
 - libwidget_viewer_evas
 - org.tizen.heremaps-uc
+- org.tizen.idle-clock-digital

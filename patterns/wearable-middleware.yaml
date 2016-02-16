@@ -71,3 +71,5 @@ Packages:
 - service-discovery
 - service-federation
 - sdbd
+- libcore-sync-client
+- sync-service

@@ -45,3 +45,5 @@ Packages:
 - gst-libav
 - gst-plugins-tizen
 - gst-plugins-ugly
+- mmsvc-camera
+- mmsvc-recorder
