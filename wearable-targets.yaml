@@ -5,6 +5,14 @@ Targets:
             - wearable-boot-armv7l-odroidu3.yaml
             - wearable-wayland-3parts-armv7l.yaml
 
+    -   Name: target-circle
+        Images:
+            - wearable-wayland-armv7l-circle.yaml
+
     -   Name: emulator32-wayland
         Images:
             - wearable-emulator32-wayland.yaml
+
+    -   Name: emulator-circle
+        Images:
+            - wearable-emulator-circle.yaml
