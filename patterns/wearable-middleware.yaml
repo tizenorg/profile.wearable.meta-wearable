@@ -73,3 +73,7 @@ Packages:
 - sdbd
 - libcore-sync-client
 - sync-service
+- openvpn
+- capi-network-vpn-setting
+- capi-vpnsvc
+- vpnsvc-daemon
