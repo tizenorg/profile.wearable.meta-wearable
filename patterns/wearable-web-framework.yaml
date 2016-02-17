@@ -7,3 +7,5 @@ Packages:
 - download-provider
 - cordova-api
 - jsnative
+- chromium-efl
+- libre2
