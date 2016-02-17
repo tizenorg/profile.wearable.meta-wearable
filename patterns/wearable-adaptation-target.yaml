@@ -3,3 +3,5 @@ Description: Wearable Adaptation Target
 Name: wearable-adaptation-target
 Packages:
 - libtbm-exynos
+- model-config-tw1
+- device-manager-plugin-exynos3250

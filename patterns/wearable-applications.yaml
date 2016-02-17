@@ -17,3 +17,5 @@ Packages:
 - libwidget_viewer_evas
 - org.tizen.heremaps-uc
 - org.tizen.idle-clock-digital
+- org.tizen.w-home
+- org.tizen.watch-setting
