@@ -3,3 +3,4 @@ Description: Wearable Adaptation Target Circle
 Name: wearable-adaptation-target-circle
 Packages:
 - libtbm-exynos
+- model-config-tw1
