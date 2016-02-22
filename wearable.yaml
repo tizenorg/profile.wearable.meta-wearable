@@ -18,16 +18,7 @@ Default:
     SaveRepos: False
     UserGroups: "audio,video"
 
-Boot-Odroidu3:
-    Part: wearable-mbr-boot
-    Desktop: None
-    SaveRepos: False
-    UserGroups: "audio,video"
-    Groups:
-        - Wearable Boot Odroid U3
-    Repos: []
-
-Wayland:
+Wayland-circle:
     Part: wearable-mbr
     UserGroups: "audio,video"
     Groups:
