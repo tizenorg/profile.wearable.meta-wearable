@@ -75,3 +75,5 @@ Packages:
 - sync-service
 - capi-vpnsvc
 - vpnsvc-daemon
+- liboauth
+- oauth2
