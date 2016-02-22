@@ -27,7 +27,7 @@ Boot-Odroidu3:
         - Wearable Boot Odroid U3
     Repos: []
 
-Wayland:
+Wayland-circle:
     Part: wearable-mbr
     UserGroups: "audio,video"
     Groups:

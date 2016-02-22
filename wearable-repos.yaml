@@ -1,8 +1,4 @@
 Repositories:
-    -   Name: wearable-wayland-armv7l
-        Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/arm-wayland/packages/
-        Options: --ssl_verify=no
-
     -   Name: wearable-target-circle
         Url:  http://download.tizen.org/snapshots/tizen/wearable/@BUILD_ID@/repos/target-circle/packages/
         Options: --ssl_verify=no

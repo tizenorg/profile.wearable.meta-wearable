@@ -1,9 +1,8 @@
 ---
 Targets:
-    -   Name: arm-wayland
+    -   Name: boot
         Images:
             - wearable-boot-armv7l-odroidu3.yaml
-            - wearable-wayland-3parts-armv7l.yaml
 
     -   Name: target-circle
         Images:
