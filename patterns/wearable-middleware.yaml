@@ -74,8 +74,4 @@ Packages:
 - oauth2
 - capi-vpnsvc
 - vpnsvc-daemon
-- capi-network-vpn-setting
-- openvpn
-- connman-connman-vpnd
-- connman-plugin-openvpn
 - argos_watchdog
