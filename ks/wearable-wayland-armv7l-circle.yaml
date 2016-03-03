@@ -11,3 +11,7 @@ Repos:
     - base-arm
 Groups:
     - Wearable Adaptation Target Circle
+Attachment:
+    - /boot/kernel/zImage
+PostScripts:
+    - wearable-adaptation-target-circle
