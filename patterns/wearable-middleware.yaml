@@ -76,3 +76,4 @@ Packages:
 - vpnsvc-daemon
 - argos_watchdog
 - fido-client
+- libeom
