@@ -5,6 +5,7 @@ Packages:
 - buxton2
 - ofono
 - resourced
+- memps
 - iotcon
 - key-manager
 - key-manager-pam-plugin
