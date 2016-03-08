@@ -9,3 +9,5 @@ Packages:
 - mtp-initiator
 - capi-network-mtp
 - capi-network-nfc
+- libdns_sd
+- mdnsresponder
