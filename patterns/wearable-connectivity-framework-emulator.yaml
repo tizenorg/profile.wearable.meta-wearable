@@ -8,3 +8,7 @@ Packages:
 - nfc-client-lib
 - nfc-common-lib
 - libnl3
+- libnsd-dns-sd
+- libnsd-ssdp
+- libdns_sd
+- mdnsresponder
