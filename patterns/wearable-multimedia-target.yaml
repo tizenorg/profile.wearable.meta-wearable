@@ -46,3 +46,4 @@ Packages:
 - gst-plugins-ugly
 - mmsvc-camera
 - mmsvc-recorder
+- media-thumbnail-server
