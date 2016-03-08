@@ -13,3 +13,4 @@ Packages:
 - dlogutil
 - lzo
 - sys-string
+- tizen-locale
