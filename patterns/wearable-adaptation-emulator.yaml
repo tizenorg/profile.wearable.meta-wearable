@@ -7,6 +7,7 @@ Packages:
 - gst-plugins-emulator
 - libtbm-vigs
 - model-config-emulator
+- system-plugin
 - system-plugin-emulator
 - vmodemd-emul
 - swap-probe
@@ -16,3 +17,4 @@ Packages:
 - emulator-yagl
 - capi-network-mtp
 - coregl
+- audio-hal-emul
