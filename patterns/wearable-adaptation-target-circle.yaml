@@ -7,3 +7,4 @@ Packages:
 - device-manager-plugin-exynos3250
 - linux-3.4-exynos3250_tizen_wc1
 - libtdm-exynos
+- system-plugin-circle
