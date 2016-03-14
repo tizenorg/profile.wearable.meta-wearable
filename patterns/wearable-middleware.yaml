@@ -78,3 +78,6 @@ Packages:
 - argos_watchdog
 - fido-client
 - libeom
+- auth-fw
+- libauth-fw-client
+- libauth-fw-client-admin
