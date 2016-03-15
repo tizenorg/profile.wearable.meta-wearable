@@ -18,3 +18,5 @@ Packages:
 - capi-network-mtp
 - coregl
 - audio-hal-emul
+- tel-plugin-atmodem
+- tel-plugin-vmodem
