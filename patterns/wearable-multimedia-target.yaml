@@ -10,6 +10,7 @@ Packages:
 - libmm-sound
 - libmm-player
 - capi-media-player
+- mmsvc-player
 - capi-media-camera
 - capi-media-tool
 - gst-rtsp-server
