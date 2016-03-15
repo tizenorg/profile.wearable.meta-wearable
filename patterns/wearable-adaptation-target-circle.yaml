@@ -10,7 +10,6 @@ Packages:
 - system-plugin-circle
 - mmfw-sysconf-target-tw1
 - audio-config-wm1831-orbis
-- sensor-hal-tw1
 - smartcard-service
 - smartcard-service-common
 - nfc-manager
