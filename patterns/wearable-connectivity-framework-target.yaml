@@ -11,3 +11,5 @@ Packages:
 - capi-network-nfc
 - libdns_sd
 - mdnsresponder
+- capi-network-smartcard
+- mtp-responder
