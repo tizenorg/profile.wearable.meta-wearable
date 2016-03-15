@@ -8,3 +8,4 @@ Packages:
 - chromium-efl
 - libre2
 - crosswalk-tizen
+- libwebsockets
