@@ -14,3 +14,4 @@ Packages:
 - smartcard-service
 - smartcard-service-common
 - nfc-manager
+- audio-hal-wm1831
