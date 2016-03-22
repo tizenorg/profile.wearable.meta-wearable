@@ -26,7 +26,6 @@ Packages:
 - libmm-imgp-gstcs
 - capi-mediademuxer
 - capi-mediamuxer
-- gst-omx
 - capi-media-vision
 - opencv
 - zint
