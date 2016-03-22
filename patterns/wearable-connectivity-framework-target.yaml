@@ -13,3 +13,5 @@ Packages:
 - mdnsresponder
 - capi-network-smartcard
 - mtp-responder
+- libnsd-dns-sd
+- libnsd-ssdp
