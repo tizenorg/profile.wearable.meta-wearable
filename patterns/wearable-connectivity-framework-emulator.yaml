@@ -10,3 +10,5 @@ Packages:
 - libnl3
 - libdns_sd
 - mdnsresponder
+- libnsd-dns-sd
+- libnsd-ssdp
