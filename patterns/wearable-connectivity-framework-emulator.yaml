@@ -7,7 +7,6 @@ Packages:
 - capi-network-smartcard
 - nfc-client-lib
 - nfc-common-lib
-- libnl3
 - libdns_sd
 - mdnsresponder
 - libnsd-dns-sd

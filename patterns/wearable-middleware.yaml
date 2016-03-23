@@ -3,7 +3,6 @@ Description: Wearable Middleware
 Name: wearable-middleware
 Packages:
 - buxton2
-- ofono
 - resourced
 - memps
 - iotcon
