@@ -43,8 +43,6 @@ Packages:
 - tzsh
 - libwebappenc
 - toybox
-- toybox-symlinks-klogd
-- toybox-symlinks-sysklogd
 - toybox-symlinks-dhcp
 - toybox-symlinks-dhcpd
 - xdelta3
