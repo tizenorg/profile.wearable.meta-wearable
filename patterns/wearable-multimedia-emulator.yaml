@@ -13,9 +13,6 @@ Packages:
 - mmsvc-player
 - capi-media-camera
 - capi-media-tool
-- gst-rtsp-server
-- libmm-wfd
-- capi-media-screen-mirroring
 - capi-media-codec
 - mediacontroller
 - capi-media-tone-player
