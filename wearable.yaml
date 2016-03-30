@@ -5,7 +5,7 @@ Default:
     Part: wearable-mbr
     Language: en_US.UTF-8
     Keyboard: us
-    Timezone: America/Los_Angeles
+    Timezone: Asia/Seoul
     RootPass: tizen
     DefaultUser: guest
     DefaultUserPass: tizen
