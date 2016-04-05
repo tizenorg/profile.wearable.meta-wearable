@@ -3,7 +3,6 @@ Description: Wearable Connectivity Framework Emulator
 Name: wearable-connectivity-framework-emulator
 Packages:
 - capi-network-nfc
-- capi-network-serial
 - capi-network-smartcard
 - nfc-client-lib
 - nfc-common-lib
