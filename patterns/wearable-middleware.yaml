@@ -69,6 +69,7 @@ Packages:
 - vpnsvc-daemon
 - argos_watchdog
 - fido-client
+- dummyasm
 - libeom
 - auth-fw
 - libauth-fw-client
