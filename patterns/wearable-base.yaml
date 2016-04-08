@@ -12,5 +12,4 @@ Packages:
 - capi-base-utils
 - dlogutil
 - lzo
-- sys-string
 - tizen-locale
