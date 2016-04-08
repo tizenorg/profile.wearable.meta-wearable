@@ -46,3 +46,4 @@ Packages:
 - mmsvc-recorder
 - media-thumbnail-server
 - capi-media-radio
+- libmm-evas-renderer
