@@ -82,3 +82,6 @@ Packages:
 - download-provider
 - capi-system-runtime-info
 - app2sd
+- device-policy-manager
+- dpm-pam-zone
+- libdpm

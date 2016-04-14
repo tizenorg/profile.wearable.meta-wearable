@@ -21,3 +21,6 @@ Packages:
 - org.tizen.watch-setting
 - org.tizen.elm-demo-tizen-wearable
 - org.tizen.w-wifi
+- org.tizen.ode
+- org.tizen.dpm-syspopup
+- org.tizen.zone-setup-wizard
