@@ -4,6 +4,7 @@ Name: wearable-efl
 Packages:
 - capi-ui-efl-util
 - elementary-tools
+- elementary-locale
 - default-fonts-sdk
 - default-fonts-fc-sdk
 - efl-config

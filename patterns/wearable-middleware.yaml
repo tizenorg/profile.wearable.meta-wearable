@@ -60,7 +60,6 @@ Packages:
 - capi-system-media-key
 - appcore-widget
 - context-service
-- minicontrol
 - sdbd
 - libcore-sync-client
 - sync-service
