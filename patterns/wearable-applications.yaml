@@ -24,3 +24,4 @@ Packages:
 - org.tizen.ode
 - org.tizen.dpm-syspopup
 - org.tizen.zone-setup-wizard
+- org.tizen.poweroff-syspopup
