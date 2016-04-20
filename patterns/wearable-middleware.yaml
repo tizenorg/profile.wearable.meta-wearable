@@ -85,3 +85,8 @@ Packages:
 - dpm-pam-zone
 - libdpm
 - system-servant
+- contacts-service
+- phonenumber-utils
+- pims-ipc
+- libphonenumber
+- protobuf
