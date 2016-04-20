@@ -85,3 +85,4 @@ Packages:
 - dpm-pam-zone
 - libdpm
 - system-servant
+- org.tizen.widget_viewer_sdk
