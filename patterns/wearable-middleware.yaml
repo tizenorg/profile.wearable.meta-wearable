@@ -87,6 +87,6 @@ Packages:
 - system-servant
 - contacts-service2
 - phonenumber-utils
-- pims-ipc
 - libphonenumber
-- protobuf
+- pims-ipc
+- libprotobuf9
