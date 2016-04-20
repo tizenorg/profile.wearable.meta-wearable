@@ -85,7 +85,7 @@ Packages:
 - dpm-pam-zone
 - libdpm
 - system-servant
-- contacts-service
+- contacts-service2
 - phonenumber-utils
 - pims-ipc
 - libphonenumber
