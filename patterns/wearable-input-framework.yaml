@@ -14,5 +14,6 @@ Packages:
 - ise-engine-sunpinyin
 - ise-engine-tables
 - ise-engine-tables-zh
+- ise-engine-unikey
 - libhangul
 - libscl-ui
