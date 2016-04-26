@@ -90,3 +90,7 @@ Packages:
 - libphonenumber
 - pims-ipc
 - libprotobuf9
+- swap-modules
+- swap-probe
+- swap-probe-elf
+- swap-manager

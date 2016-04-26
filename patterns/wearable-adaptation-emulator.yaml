@@ -10,7 +10,6 @@ Packages:
 - system-plugin
 - system-plugin-emulator
 - vmodemd-emul
-- swap-probe
 - gssdp
 - openssh
 - libtdm-drm
