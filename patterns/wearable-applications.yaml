@@ -27,3 +27,4 @@ Packages:
 - org.tizen.poweroff-syspopup
 - org.tizen.bt-syspopup
 - org.tizen.widget_viewer_sdk
+- org.tizen.dpm-toolkit
