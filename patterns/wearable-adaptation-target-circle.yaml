@@ -15,3 +15,4 @@ Packages:
 - smartcard-service-common
 - nfc-manager
 - audio-hal-wm1831
+- org.tizen.dpm-toolkit
