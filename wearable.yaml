@@ -58,6 +58,7 @@ Wayland-circle:
         - wearable-desktop-applications
         - generic-crosswalk
         - wearable-crosswalk
+        - wearable-license
     Repos: []
     NoChrootScripts:
         - buildname
@@ -101,7 +102,7 @@ Emulator-wayland:
         - wearable-desktop-applications
         - generic-crosswalk
         - wearable-crosswalk
+        - wearable-license
     Repos: []
     NoChrootScripts:
         - buildname
-

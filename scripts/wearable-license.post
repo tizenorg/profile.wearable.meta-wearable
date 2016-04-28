@@ -1,0 +1,50 @@
+#!/bin/sh
+echo "############### wearable-license.post ################"
+
+LICENSE_DIR=/usr/share/license
+LICENSE_FILE=/usr/share/license.html
+MD5_TEMP_FILE=/usr/share/temp_license_md5
+
+if [[ -f $LICENSE_FILE ]]; then
+        rm -f $LICENSE_FILE
+fi
+
+LICENSE_LIST=`ls $LICENSE_DIR`
+
+if [[ -f $MD5_TEMP_FILE ]]; then
+        rm -f $MD5_TEMP_FILE
+fi
+
+cd $LICENSE_DIR
+
+for INPUT in $LICENSE_LIST; do
+        if [[ -f $INPUT ]]; then
+                md5sum $INPUT >> $MD5_TEMP_FILE
+        fi
+done
+
+MD5_LIST=`cat $MD5_TEMP_FILE|awk '{print $1}'|sort -u`
+
+echo "<html>" >> $LICENSE_FILE
+echo "<head>" >> $LICENSE_FILE
+echo "<meta name=\"viewport\" content=\"initial-scale=1.0\">" >> $LICENSE_FILE
+echo "</head>" >> $LICENSE_FILE
+echo "<body>" >> $LICENSE_FILE
+echo "<xmp>" >> $LICENSE_FILE
+
+for INPUT in $MD5_LIST; do
+        PKG_LIST=`cat $MD5_TEMP_FILE|grep $INPUT|awk '{print $2}'`
+        PKG_NAME=`echo $PKG_LIST|awk '{print $1}'`
+
+        echo "$PKG_LIST :" >> $LICENSE_FILE
+        cat $PKG_NAME >> $LICENSE_FILE
+        echo  >> $LICENSE_FILE
+        echo  >> $LICENSE_FILE
+        echo  >> $LICENSE_FILE
+done
+
+echo "</xmp>" >> $LICENSE_FILE
+echo "</body>" >> $LICENSE_FILE
+echo "</html>" >> $LICENSE_FILE
+
+rm -rf $LICENSE_DIR/* $MD5_TEMP_FILE
