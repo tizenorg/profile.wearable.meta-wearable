@@ -3,7 +3,7 @@ Architecture: ia32
 Schedule: "*"
 Active: True
 Platform: Emulator-wayland
-Part: wearable-mbr-3parts-emulator
+Part: wearable-2parts-emulator
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: wearable-emulator32-wayland
 Repos:

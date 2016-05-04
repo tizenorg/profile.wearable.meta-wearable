@@ -1,0 +1,2 @@
+part / --size=2000 --ondisk=sda --fstype=ext4 --label=emulator-rootfs
+part /opt/ --size=2000 --ondisk=sda --fstype=ext4 --label=emulator-sysdata
