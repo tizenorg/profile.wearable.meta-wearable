@@ -15,3 +15,4 @@ Packages:
 - mtp-responder
 - libnsd-dns-sd
 - libnsd-ssdp
+- mobileap-agent

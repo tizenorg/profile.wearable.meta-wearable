@@ -10,3 +10,4 @@ Packages:
 - mdnsresponder
 - libnsd-dns-sd
 - libnsd-ssdp
+- mobileap-agent
