@@ -13,3 +13,5 @@ Packages:
 - dlogutil
 - lzo
 - tizen-locale
+- fsck-msdos
+- newfs-msdos
