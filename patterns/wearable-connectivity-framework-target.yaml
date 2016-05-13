@@ -16,3 +16,5 @@ Packages:
 - libnsd-dns-sd
 - libnsd-ssdp
 - mobileap-agent
+- capi-network-softap
+- capi-network-http
