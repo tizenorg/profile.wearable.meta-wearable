@@ -72,8 +72,8 @@ Packages:
 - libauth-fw-client
 - libauth-fw-client-admin
 - ui-gadget-1
-- libboost_regex1_57_0
-- libboost_date_time1_57_0
+- boost_regex
+- boost_date_time
 - heremaps-uc-launcher
 - capi-web-url-download
 - download-provider
