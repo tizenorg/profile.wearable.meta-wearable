@@ -28,3 +28,5 @@ Packages:
 - org.tizen.bt-syspopup
 - org.tizen.widget_viewer_sdk
 - org.tizen.screen-reader
+- org.tizen.crash-syspopup
+- org.tizen.system-syspopup
