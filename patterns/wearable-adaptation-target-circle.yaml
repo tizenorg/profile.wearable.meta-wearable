@@ -16,3 +16,7 @@ Packages:
 - nfc-manager
 - audio-hal-wm1831
 - org.tizen.dpm-toolkit
+- swap-modules
+- swap-probe
+- swap-probe-elf
+- swap-manager

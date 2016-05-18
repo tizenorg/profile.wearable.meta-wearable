@@ -10,10 +10,6 @@ Packages:
 - system-plugin
 - system-plugin-emulator
 - vmodemd-emul
-- swap-modules
-- swap-probe
-- swap-probe-elf
-- swap-manager
 - gssdp
 - openssh
 - libtdm-drm
@@ -23,3 +19,7 @@ Packages:
 - audio-hal-emul
 - tel-plugin-atmodem
 - tel-plugin-vmodem
+- swap-modules
+- swap-probe
+- swap-probe-elf
+- swap-manager
