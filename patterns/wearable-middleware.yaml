@@ -31,6 +31,7 @@ Packages:
 - appcore-agent
 - data-control
 - ttrace
+- ttrace-extension
 - stt
 - libttssmt
 - esd
