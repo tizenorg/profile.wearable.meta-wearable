@@ -23,7 +23,6 @@ Packages:
 - org.tizen.w-wifi
 - org.tizen.ode
 - org.tizen.dpm-syspopup
-- org.tizen.zone-setup-wizard
 - org.tizen.powerkey-syspopup
 - org.tizen.bt-syspopup
 - org.tizen.widget_viewer_sdk

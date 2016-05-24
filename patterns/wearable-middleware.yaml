@@ -81,7 +81,6 @@ Packages:
 - capi-system-runtime-info
 - app2sd
 - device-policy-manager
-- dpm-pam-zone
 - libdpm
 - system-servant
 - contacts-service2
