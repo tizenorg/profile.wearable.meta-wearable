@@ -88,3 +88,4 @@ Packages:
 - libphonenumber
 - pims-ipc
 - libprotobuf9
+- libprotobuf-lite9

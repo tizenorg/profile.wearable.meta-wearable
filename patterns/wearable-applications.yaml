@@ -29,3 +29,4 @@ Packages:
 - org.tizen.screen-reader
 - org.tizen.crash-syspopup
 - org.tizen.system-syspopup
+- org.tizen.app-selector
