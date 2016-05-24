@@ -4,7 +4,6 @@ Name: wearable-connectivity-framework-emulator
 Packages:
 - capi-network-nfc
 - capi-network-smartcard
-- nfc-client-lib
 - nfc-common-lib
 - libdns_sd
 - mdnsresponder
