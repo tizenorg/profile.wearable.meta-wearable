@@ -89,3 +89,7 @@ Packages:
 - pims-ipc
 - libprotobuf9
 - libprotobuf-lite9
+- gmime
+- libuw-imap-toolkit
+- email-service
+- capi-messaging-email
