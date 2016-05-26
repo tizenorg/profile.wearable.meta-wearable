@@ -15,6 +15,7 @@ Packages:
 - libcynara-creds-dbus
 - libcynara-creds-gdbus
 - libcynara-creds-socket
+- libcynara-monitor
 - murphy
 - cert-svc
 - security-privilege-manager
