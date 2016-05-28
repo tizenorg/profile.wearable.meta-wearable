@@ -20,3 +20,4 @@ Packages:
 - swap-probe
 - swap-probe-elf
 - swap-manager
+- ug-nfc-efl
