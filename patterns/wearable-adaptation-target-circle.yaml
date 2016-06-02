@@ -21,3 +21,5 @@ Packages:
 - swap-probe-elf
 - swap-manager
 - ug-nfc-efl
+- smartcard-service-server
+- smartcard-plugin-nfc
