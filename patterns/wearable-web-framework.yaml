@@ -4,7 +4,6 @@ Name: wearable-web-framework
 Packages:
 - webapi-plugins
 - cordova-api
-- jsnative
 - chromium-efl
 - libre2
 - crosswalk-tizen
