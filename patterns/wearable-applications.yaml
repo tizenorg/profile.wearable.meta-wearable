@@ -2,7 +2,6 @@ Summary: Wearable Applications
 Description: Wearable Applications
 Name: wearable-applications
 Packages:
-- ail
 - ca-certificates
 - push-bin
 - libpush
