@@ -95,3 +95,6 @@ Packages:
 - libuw-imap-toolkit
 - email-service
 - capi-messaging-email
+- d2d-conv-manager
+- d2d-conv-manager-lib
+- msf-api
