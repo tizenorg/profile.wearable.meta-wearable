@@ -66,6 +66,7 @@ Packages:
 - sdbd
 - libcore-sync-client
 - sync-service
+- liboauth
 - oauth2
 - argos_watchdog
 - fido-client

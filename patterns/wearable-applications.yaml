@@ -29,3 +29,4 @@ Packages:
 - org.tizen.crash-syspopup
 - org.tizen.system-syspopup
 - org.tizen.app-selector
+- org.tizen.classic-watch
