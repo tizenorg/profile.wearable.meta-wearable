@@ -30,3 +30,5 @@ Packages:
 - org.tizen.system-syspopup
 - org.tizen.app-selector
 - org.tizen.classic-watch
+- org.tizen.apptray-widget
+- org.tizen.windicator
