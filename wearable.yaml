@@ -31,7 +31,6 @@ Wayland-circle:
         - Wearable Wayland
         - Wearable Middleware
         - Wearable Applications
-        - Generic Bluetooth
         - Wearable Bluetooth
         - Generic Multimedia
         - Wearable Multimedia Target
@@ -76,7 +75,6 @@ Emulator-wayland:
         - Wearable Wayland
         - Wearable Middleware
         - Wearable Applications
-        - Generic Bluetooth
         - Wearable Bluetooth
         - Generic Multimedia
         - Wearable Multimedia Emulator

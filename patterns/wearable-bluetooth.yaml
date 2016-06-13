@@ -2,4 +2,9 @@ Summary: Wearable Bluetooth
 Description: Wearable Bluetooth
 Name: wearable-bluetooth
 Packages:
+- bluez
 - bluetooth-agent
+- bluetooth-frwk-core
+- bluetooth-frwk-service
+- bluetooth-tools-no-firmware
+- obexd
