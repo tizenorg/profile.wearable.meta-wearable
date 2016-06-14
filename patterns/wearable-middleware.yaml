@@ -98,3 +98,9 @@ Packages:
 - capi-messaging-email
 - d2d-conv-manager
 - d2d-conv-manager-lib
+- askuser
+- askuser-notification
+- askuser-plugins
+- askuser-test
+- libaskuser-common
+- libcsr-framework-client

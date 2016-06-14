@@ -26,7 +26,6 @@ Wayland-circle:
         - Wearable Base
         - Wearable Console Tools
         - Wearable Packaging
-        - Generic Adaptation
         - Wearable Adaptation
         - Wearable Wayland
         - Wearable Middleware
@@ -48,7 +47,6 @@ Wayland-circle:
         - wearable-base
         - generic-console-tools
         - wearable-packaging
-        - generic-adaptation
         - wearable-adaptation
         - wearable-middleware
         - generic-bluetooth
@@ -92,7 +90,6 @@ Emulator-wayland:
         - wearable-base
         - generic-console-tools
         - wearable-packaging
-        - generic-adaptation
         - wearable-adaptation
         - wearable-middleware
         - generic-bluetooth

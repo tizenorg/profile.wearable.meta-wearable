@@ -12,7 +12,6 @@ Packages:
 - vmodemd-emul
 - swap-probe
 - gssdp
-- openssh
 - libtdm-drm
 - emulator-yagl
 - capi-network-mtp
