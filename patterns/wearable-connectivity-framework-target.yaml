@@ -5,9 +5,6 @@ Packages:
 - wifi-direct-manager
 - libnl2
 - wifi-direct-plugin-wpasupplicant
-- libmtp
-- mtp-initiator
-- capi-network-mtp
 - capi-network-nfc
 - libdns_sd
 - mdnsresponder

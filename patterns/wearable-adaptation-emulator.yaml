@@ -13,7 +13,6 @@ Packages:
 - gssdp
 - libtdm-drm
 - emulator-yagl
-- capi-network-mtp
 - coregl
 - audio-hal-emul
 - tel-plugin-atmodem
