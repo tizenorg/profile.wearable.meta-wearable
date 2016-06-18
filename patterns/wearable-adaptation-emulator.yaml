@@ -21,3 +21,4 @@ Packages:
 - swap-probe
 - swap-probe-elf
 - swap-manager
+- sensor-hal-emulator
