@@ -47,3 +47,4 @@ Packages:
 - media-thumbnail-server
 - capi-media-radio
 - libmm-evas-renderer
+- gst-omx
