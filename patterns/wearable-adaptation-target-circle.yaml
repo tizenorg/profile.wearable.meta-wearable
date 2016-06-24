@@ -24,3 +24,4 @@ Packages:
 - ug-nfc-efl
 - smartcard-service-server
 - smartcard-plugin-nfc
+- bluetooth-firmware-bcm-exynos3250

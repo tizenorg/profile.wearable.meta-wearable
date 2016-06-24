@@ -6,5 +6,4 @@ Packages:
 - bluetooth-agent
 - bluetooth-frwk-core
 - bluetooth-frwk-service
-- bluetooth-tools-no-firmware
 - obexd
