@@ -32,3 +32,4 @@ Packages:
 - org.tizen.classic-watch
 - org.tizen.apptray-widget
 - org.tizen.windicator
+- org.tizen.inputdelegator
