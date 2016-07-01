@@ -12,3 +12,6 @@ Packages:
 - mobileap-agent
 - capi-network-softap
 - capi-network-http
+- nfc-plugin-emul
+- nfc-manager
+- ug-nfc-efl

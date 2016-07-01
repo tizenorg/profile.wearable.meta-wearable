@@ -18,5 +18,4 @@ Packages:
 - audio-hal-emul
 - tel-plugin-atmodem
 - tel-plugin-vmodem
-- ug-nfc-efl
 - sensor-hal-emulator
