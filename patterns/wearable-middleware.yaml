@@ -103,5 +103,3 @@ Packages:
 - askuser-test
 - libaskuser-common
 - libcsr-framework-client
-- cryptsetup
-- device-mapper
