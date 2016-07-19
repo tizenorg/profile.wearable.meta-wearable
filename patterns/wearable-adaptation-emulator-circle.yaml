@@ -11,6 +11,9 @@ Packages:
 - system-plugin-emulator
 - vmodemd-emul
 - swap-probe
+- swap-probe-elf
+- swap-modules
+- swap-manager
 - gssdp
 - libtdm-drm
 - emulator-yagl
