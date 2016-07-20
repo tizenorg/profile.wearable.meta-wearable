@@ -33,3 +33,4 @@ Packages:
 - org.tizen.apptray-widget
 - org.tizen.windicator
 - org.tizen.inputdelegator
+- org.tizen.tts-engine-default
