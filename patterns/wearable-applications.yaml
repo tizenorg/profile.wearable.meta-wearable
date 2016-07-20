@@ -34,3 +34,4 @@ Packages:
 - org.tizen.windicator
 - org.tizen.inputdelegator
 - org.tizen.tts-engine-default
+- org.tizen.stt-engine-default

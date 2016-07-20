@@ -34,7 +34,6 @@ Packages:
 - ttrace
 - ttrace-extension
 - stt
-- stt-engine-default
 - esd
 - eventsystem
 - vconf-internal-keys
