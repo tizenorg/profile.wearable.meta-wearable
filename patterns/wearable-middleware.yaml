@@ -101,3 +101,4 @@ Packages:
 - askuser-test
 - libaskuser-common
 - libcsr-framework-client
+- tizen-debug
