@@ -12,6 +12,7 @@ Packages:
 - vmodemd-emul
 - gssdp
 - libtdm-drm
+- libtdm-client
 - emulator-yagl
 - coregl
 - audio-hal-emul

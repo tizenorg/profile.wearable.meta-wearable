@@ -25,3 +25,4 @@ Packages:
 - smartcard-service-server
 - smartcard-plugin-nfc
 - bluetooth-firmware-bcm-exynos3250
+- libtdm-client
